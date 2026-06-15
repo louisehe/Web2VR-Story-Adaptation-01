@@ -1,4 +1,4 @@
-# Web2VR — Expert A Adaptations
+# Web2VR — Adaptations
 
 WebXR adaptations of NYT interactive 3-D stories, packaged for local HTTPS and headset testing. Built one story at a time; each completed story lives in its own top-level folder and is added to this repo as it is finished.
 
