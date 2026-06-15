@@ -1,0 +1,15 @@
+{
+ "headline": "See Inside Typhoon Mangkhut in 3-D",
+ "byline": "The New York Times — Sept. 15, 2018",
+ "sourceUrl": "https://www.nytimes.com/interactive/2018/09/15/world/asia/super-typhoon-mangkhut-ompong-storm.html",
+ "pcd": "data/storm.pcd",
+ "beats": [
+  { "caption": "A NASA satellite captured data from a cross section of Typhoon Mangkhut as the storm approached the Philippines early Friday.", "theta": 0.7, "phi": 1.05, "radius": 8.5 },
+  { "caption": "The satellite’s radar sent out pulses of energy, like camera flashes, and measured how the energy reflected off the rain and ice inside the storm. The resulting 3-D picture shows the amount of rainfall per hour — blue the lightest, red the most intense.", "theta": 1.15, "phi": 1.05, "radius": 8.5 },
+  { "caption": "At the moment captured here, the typhoon was 550 miles wide and more than six miles tall, with enough cloud cover to blanket an area larger than Texas. The eye alone was 31 miles wide.", "theta": 1.6, "phi": 0.92, "radius": 10.5 },
+  { "caption": "Rain is heaviest near the center, in the eyewall, visible here in red. Mangkhut’s peak rate reached 11.7 inches per hour. “Like a summertime downpour where you get totally drenched a few seconds after stepping out without an umbrella,” said NASA’s Dr. Owen Kelley.", "theta": 1.95, "phi": 1.28, "radius": 4.6 },
+  { "caption": "The wind and rain start to taper farther out from the eyewall, becoming more like a thunderstorm.", "theta": 2.4, "phi": 1.05, "radius": 6.8 },
+  { "caption": "At the storm’s outer edges, it’s more of a drizzle. But once the typhoon hits land, even these areas of lighter rain and wind can be dangerous — with the potential to cause tornadoes, flash floods and landslides.", "theta": 2.9, "phi": 1.0, "radius": 9.5 },
+  { "caption": "Typhoon Mangkhut was still as strong as a Category 5 storm when it made landfall over Baggao, in Cagayan Province, early Saturday. It uprooted trees and flooded roads and farms. Dozens of deaths were reported.", "theta": 3.4, "phi": 1.12, "radius": 7.5 }
+ ]
+}

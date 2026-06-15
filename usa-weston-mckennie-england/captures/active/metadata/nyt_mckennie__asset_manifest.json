@@ -1,0 +1,848 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2022/11/25/sports/world-cup/usa-weston-mckennie-england.html",
+  "title": "Weston McKennie Is Going to Want This One Back - The New York Times",
+  "timestamp": "2026-06-15T04:02:59.272Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/data/state.json",
+      "asset_type": "data",
+      "local_name": "nyt_mckennie__data__data_state.json",
+      "size": 82223
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0003_2048x0_10760x5840.8cf5ddae.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0003_2048x0_10760x5840.8cf5ddae.webp",
+      "size": 126054
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0000_2025x0_10721x5818.07454a70.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0000_2025x0_10721x5818.07454a70.webp",
+      "size": 716382
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0000_2025x0_10721x5818.1589d53c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0000_2025x0_10721x5818.1589d53c.webp",
+      "size": 127836
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/world-cup-2022-usa-england-6.glb",
+      "asset_type": "model",
+      "local_name": "nyt_mckennie__model__assets_world-cup-2022-usa-england-6.glb",
+      "size": 1048044
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/Field_Annots3D.glb",
+      "asset_type": "model",
+      "local_name": "nyt_mckennie__model__assets_Field_Annots3D.glb",
+      "size": 260456
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0111inpaintedv2_0x0_11940x6657.c79d9a9e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0111inpaintedv2_0x0_11940x6657.c79d9a9e.webp",
+      "size": 695986
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0006_2005x5_10713x5858.a473e269.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0006_2005x5_10713x5858.a473e269.webp",
+      "size": 722254
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0006_2005x5_10713x5858.1ddc8981.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0006_2005x5_10713x5858.1ddc8981.webp",
+      "size": 126368
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0009_1994x16_10699x5864.d2bd50e7.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0009_1994x16_10699x5864.d2bd50e7.webp",
+      "size": 126294
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0012_2030x23_10747x5888.bff98e5e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0012_2030x23_10747x5888.bff98e5e.webp",
+      "size": 678292
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0015_2140x21_10880x5917.57ad47bb.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0015_2140x21_10880x5917.57ad47bb.webp",
+      "size": 124608
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0012_2030x23_10747x5888.4de1fd75.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0012_2030x23_10747x5888.4de1fd75.webp",
+      "size": 125510
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0021_2227x0_10985x5908.025c6a3c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0021_2227x0_10985x5908.025c6a3c.webp",
+      "size": 662674
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0024_2255x0_11010x5904.ad040173.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0024_2255x0_11010x5904.ad040173.webp",
+      "size": 124886
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0021_2227x0_10985x5908.8ce39819.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0021_2227x0_10985x5908.8ce39819.webp",
+      "size": 124370
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0018_2198x6_10952x5920.874a51d4.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0018_2198x6_10952x5920.874a51d4.webp",
+      "size": 124840
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0027_2255x11_11006x5916.89c719a5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0027_2255x11_11006x5916.89c719a5.webp",
+      "size": 676952
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0027_2255x11_11006x5916.6dffa674.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0027_2255x11_11006x5916.6dffa674.webp",
+      "size": 125418
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0030_2306x32_11068x5952.51d6a1ee.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0030_2306x32_11068x5952.51d6a1ee.webp",
+      "size": 124702
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0036_2423x74_11219x6040.979c59e0.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0036_2423x74_11219x6040.979c59e0.webp",
+      "size": 655648
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0036_2423x74_11219x6040.da65ff39.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0036_2423x74_11219x6040.da65ff39.webp",
+      "size": 122670
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0039_2515x115_11331x6106.ac70007d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0039_2515x115_11331x6106.ac70007d.webp",
+      "size": 119190
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0033_2331x50_11104x5986.579efa98.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0033_2331x50_11104x5986.579efa98.webp",
+      "size": 122246
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0042_2623x182_11470x6215.539a52ef.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0042_2623x182_11470x6215.539a52ef.webp",
+      "size": 625932
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0045_2771x238_11654x6314.470cccea.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0045_2771x238_11654x6314.470cccea.webp",
+      "size": 116032
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0042_2623x182_11470x6215.a8e47654.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0042_2623x182_11470x6215.a8e47654.webp",
+      "size": 118774
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0051_3027x310_11940x6408.8876da91.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0051_3027x310_11940x6408.8876da91.webp",
+      "size": 605620
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0051_3027x310_11940x6408.88049700.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0051_3027x310_11940x6408.88049700.webp",
+      "size": 112120
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0054_2923x412_11794x6461.ee43bb9f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0054_2923x412_11794x6461.ee43bb9f.webp",
+      "size": 111954
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0048_2931x275_11845x6385.87c124aa.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0048_2931x275_11845x6385.87c124aa.webp",
+      "size": 111472
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0057_2654x600_11445x6557.d442d756.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0057_2654x600_11445x6557.d442d756.webp",
+      "size": 596222
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0060_2369x801_11076x6651.02f1c551.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0060_2369x801_11076x6651.02f1c551.webp",
+      "size": 106516
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0057_2654x600_11445x6557.33daea37.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0057_2654x600_11445x6557.33daea37.webp",
+      "size": 107974
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0069_885x181_9665x6134.d819c899.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0069_885x181_9665x6134.d819c899.webp",
+      "size": 131330
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0066_1825x721_10530x6576.8db90e1b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0066_1825x721_10530x6576.8db90e1b.webp",
+      "size": 613530
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0063_2036x857_10711x6657.e90b0907.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0063_2036x857_10711x6657.e90b0907.webp",
+      "size": 103246
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0066_1825x721_10530x6576.c5465c0e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0066_1825x721_10530x6576.c5465c0e.webp",
+      "size": 109022
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0072_829x84_9588x5997.e93bb0d9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0072_829x84_9588x5997.e93bb0d9.webp",
+      "size": 719480
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0075_1516x83_10198x5871.e0dffb75.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0075_1516x83_10198x5871.e0dffb75.webp",
+      "size": 127492
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0072_829x84_9588x5997.9332d41e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0072_829x84_9588x5997.9332d41e.webp",
+      "size": 134036
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0081_1459x48_10143x5858.6a6ada46.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0081_1459x48_10143x5858.6a6ada46.webp",
+      "size": 726598
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0084_998x61_9706x5905.4fdf9c50.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0084_998x61_9706x5905.4fdf9c50.webp",
+      "size": 132310
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0081_1459x48_10143x5858.ddb37e30.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0081_1459x48_10143x5858.ddb37e30.webp",
+      "size": 129342
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0078_1546x68_10229x5860.6bc6224f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0078_1546x68_10229x5860.6bc6224f.webp",
+      "size": 127976
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0090_653x72_9408x5967.bf129925.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0090_653x72_9408x5967.bf129925.webp",
+      "size": 752234
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0090_653x72_9408x5967.43a36edf.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0090_653x72_9408x5967.43a36edf.webp",
+      "size": 132688
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0093_2324x42_11137x6039.27ad7132.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0093_2324x42_11137x6039.27ad7132.webp",
+      "size": 119112
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0087_672x63_9428x5962.4afb6aa4.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0087_672x63_9428x5962.4afb6aa4.webp",
+      "size": 134122
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0096_2489x0_11344x6020.e9523d2b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0096_2489x0_11344x6020.e9523d2b.webp",
+      "size": 636430
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0096_2489x0_11344x6020.917942c5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0096_2489x0_11344x6020.917942c5.webp",
+      "size": 121098
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0099_2213x73_10976x6001.4cb279de.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0099_2213x73_10976x6001.4cb279de.webp",
+      "size": 119990
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0105_1632x228_10299x6029.785cb0c3.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0105_1632x228_10299x6029.785cb0c3.webp",
+      "size": 670310
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0108_974x316_9678x6156.16123cb3.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0108_974x316_9678x6156.16123cb3.webp",
+      "size": 125252
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0102_2098x130_10833x6021.72062d08.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0102_2098x130_10833x6021.72062d08.webp",
+      "size": 119020
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0105_1632x228_10299x6029.ebef9877.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0105_1632x228_10299x6029.ebef9877.webp",
+      "size": 121388
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0111_667x453_9431x6374.23f1b5cb.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0111_667x453_9431x6374.23f1b5cb.webp",
+      "size": 1194096
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0114_520x576_9320x6549.afc77013.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0114_520x576_9320x6549.afc77013.webp",
+      "size": 122208
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0111_667x453_9431x6374.3d14806f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0111_667x453_9431x6374.3d14806f.webp",
+      "size": 122232
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0117_165x619_9023x6657.75ebcd9d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0117_165x619_9023x6657.75ebcd9d.webp",
+      "size": 123358
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0114_520x576_9320x6549.138b4e60.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0114_520x576_9320x6549.138b4e60.webp",
+      "size": 657724
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0120_0x623_8888x6657.880be101.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0120_0x623_8888x6657.880be101.webp",
+      "size": 696408
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0120_0x623_8888x6657.7ee899aa.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0120_0x623_8888x6657.7ee899aa.webp",
+      "size": 124910
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/12/18/multimedia/18world-cup-france-argentina-das-1-1b7c/18world-cup-france-argentina-das-1-1b7c-thumbLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__18world-cup-france-argentina-das-1-1b7c_18world-cup-france-argentina-das-1-1b7c-thumbLarge.jpg",
+      "size": 3869
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/12/18/multimedia/18world-cup-france-argentina-gamer-rory-final-1-0337/18world-cup-france-argentina-gamer-rory-final-1-0337-thumbLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__18world-cup-france-argentina-gamer-rory-final-1-0337_18world-cup-france-argentina-gamer-rory-final-1-0337-thumbLarge.jpg",
+      "size": 7074
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/25/sports/usa-england-world-cup-goal-tktk-promo/usa-england-world-cup-goal-tktk-promo-videoSixteenByNine3000-v2.jpg?year=2022&amp;h=1690&amp;w=3000&amp;s=9e68b21a3f6ae85e824fa385e93e3cb0c093d97284b59779fb625ad469f247d0&amp;k=ZQJBKqZ0VN&amp;tw=1",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__usa-england-world-cup-goal-tktk-promo_usa-england-world-cup-goal-tktk-promo-videoSixteenByNine3000-v2.jpg",
+      "size": 374333
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/25/sports/usa-england-world-cup-goal-tktk-promo/usa-england-world-cup-goal-tktk-promo-facebookJumbo-v3.jpg?year=2022&amp;h=549&amp;w=1050&amp;s=325f53af0f4334d4e0f3ff9452d408405371fe599e16fe43e4b2b02b461763b2&amp;k=ZQJBKqZ0VN",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__usa-england-world-cup-goal-tktk-promo_usa-england-world-cup-goal-tktk-promo-facebookJumbo-v3.jpg",
+      "size": 79034
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/25/sports/usa-england-world-cup-goal-tktk-promo/usa-england-world-cup-goal-tktk-promo-videoSixteenByNineJumbo1600-v3.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__usa-england-world-cup-goal-tktk-promo_usa-england-world-cup-goal-tktk-promo-videoSixteenByNineJumbo1600-v3.jpg",
+      "size": 297997
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/25/sports/usa-england-world-cup-goal-tktk-promo/usa-england-world-cup-goal-tktk-promo-superJumbo-v2.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__usa-england-world-cup-goal-tktk-promo_usa-england-world-cup-goal-tktk-promo-superJumbo-v2.jpg",
+      "size": 334498
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/25/sports/usa-england-world-cup-goal-tktk-promo/usa-england-world-cup-goal-tktk-promo-mediumSquareAt3X-v2.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__usa-england-world-cup-goal-tktk-promo_usa-england-world-cup-goal-tktk-promo-mediumSquareAt3X-v2.jpg",
+      "size": 198301
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0000_2025x0_10721x5818.909a9959.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0000_2025x0_10721x5818.909a9959.webp",
+      "size": 429706
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0003_2048x0_10760x5840.366dbbce.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0003_2048x0_10760x5840.366dbbce.webp",
+      "size": 390166
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0003_2048x0_10760x5840.ce5136bb.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0003_2048x0_10760x5840.ce5136bb.webp",
+      "size": 681246
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0006_2005x5_10713x5858.0d4c2324.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0006_2005x5_10713x5858.0d4c2324.webp",
+      "size": 394496
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0009_1994x16_10699x5864.2c0f5bc2.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0009_1994x16_10699x5864.2c0f5bc2.webp",
+      "size": 682318
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0009_1994x16_10699x5864.ab65e54f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0009_1994x16_10699x5864.ab65e54f.webp",
+      "size": 385726
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0012_2030x23_10747x5888.3ce216cf.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0012_2030x23_10747x5888.3ce216cf.webp",
+      "size": 383342
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0015_2140x21_10880x5917.14575170.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0015_2140x21_10880x5917.14575170.webp",
+      "size": 413322
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0015_2140x21_10880x5917.152e5e9f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0015_2140x21_10880x5917.152e5e9f.webp",
+      "size": 674320
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0018_2198x6_10952x5920.9accdb88.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0018_2198x6_10952x5920.9accdb88.webp",
+      "size": 415782
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0018_2198x6_10952x5920.d25cf440.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0018_2198x6_10952x5920.d25cf440.webp",
+      "size": 681184
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0021_2227x0_10985x5908.2116c084.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0021_2227x0_10985x5908.2116c084.webp",
+      "size": 414286
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0024_2255x0_11010x5904.28cbfcb4.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0024_2255x0_11010x5904.28cbfcb4.webp",
+      "size": 373718
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0024_2255x0_11010x5904.aeb97f76.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0024_2255x0_11010x5904.aeb97f76.webp",
+      "size": 642096
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0027_2255x11_11006x5916.440ff3cc.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0027_2255x11_11006x5916.440ff3cc.webp",
+      "size": 388796
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0030_2306x32_11068x5952.078a07e3.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0030_2306x32_11068x5952.078a07e3.webp",
+      "size": 375780
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0030_2306x32_11068x5952.6fe5c025.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0030_2306x32_11068x5952.6fe5c025.webp",
+      "size": 662354
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0033_2331x50_11104x5986.b1eec329.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0033_2331x50_11104x5986.b1eec329.webp",
+      "size": 408476
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0033_2331x50_11104x5986.f01a6c55.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0033_2331x50_11104x5986.f01a6c55.webp",
+      "size": 664282
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0036_2423x74_11219x6040.5f6c67f9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0036_2423x74_11219x6040.5f6c67f9.webp",
+      "size": 379370
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0039_2515x115_11331x6106.c606cde7.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0039_2515x115_11331x6106.c606cde7.webp",
+      "size": 636058
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0039_2515x115_11331x6106.cfa93f2a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0039_2515x115_11331x6106.cfa93f2a.webp",
+      "size": 400380
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0042_2623x182_11470x6215.77eaf9a3.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0042_2623x182_11470x6215.77eaf9a3.webp",
+      "size": 392430
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0045_2771x238_11654x6314.02095924.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0045_2771x238_11654x6314.02095924.webp",
+      "size": 603470
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0045_2771x238_11654x6314.557ba97b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0045_2771x238_11654x6314.557ba97b.webp",
+      "size": 382712
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0048_2931x275_11845x6385.703f3d56.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0048_2931x275_11845x6385.703f3d56.webp",
+      "size": 380480
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0048_2931x275_11845x6385.90fdab2d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0048_2931x275_11845x6385.90fdab2d.webp",
+      "size": 602068
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0051_3027x310_11940x6408.320ee47a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0051_3027x310_11940x6408.320ee47a.webp",
+      "size": 354758
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0054_2923x412_11794x6461.4e7247f9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0054_2923x412_11794x6461.4e7247f9.webp",
+      "size": 603960
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0054_2923x412_11794x6461.8fe79666.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0054_2923x412_11794x6461.8fe79666.webp",
+      "size": 374504
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0057_2654x600_11445x6557.f60f2c9a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0057_2654x600_11445x6557.f60f2c9a.webp",
+      "size": 369166
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0060_2369x801_11076x6651.158ac59b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0060_2369x801_11076x6651.158ac59b.webp",
+      "size": 341438
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0060_2369x801_11076x6651.dc9ee306.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0060_2369x801_11076x6651.dc9ee306.webp",
+      "size": 587630
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0063_2036x857_10711x6657.2f8d1e14.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0063_2036x857_10711x6657.2f8d1e14.webp",
+      "size": 362016
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0063_2036x857_10711x6657.ec07d8fb.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0063_2036x857_10711x6657.ec07d8fb.webp",
+      "size": 592652
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0066_1825x721_10530x6576.6ebf98ff.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0066_1825x721_10530x6576.6ebf98ff.webp",
+      "size": 384142
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0069_885x181_9665x6134.4639ebcb.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0069_885x181_9665x6134.4639ebcb.webp",
+      "size": 719974
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0069_885x181_9665x6134.f066c483.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0069_885x181_9665x6134.f066c483.webp",
+      "size": 435322
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0072_829x84_9588x5997.69d33dca.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0072_829x84_9588x5997.69d33dca.webp",
+      "size": 442038
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0075_1516x83_10198x5871.803bf994.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0075_1516x83_10198x5871.803bf994.webp",
+      "size": 711444
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0075_1516x83_10198x5871.83c37227.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0075_1516x83_10198x5871.83c37227.webp",
+      "size": 395112
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0078_1546x68_10229x5860.35e335bc.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0078_1546x68_10229x5860.35e335bc.webp",
+      "size": 689162
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0078_1546x68_10229x5860.d490568f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0078_1546x68_10229x5860.d490568f.webp",
+      "size": 414978
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0081_1459x48_10143x5858.1e59d6cc.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0081_1459x48_10143x5858.1e59d6cc.webp",
+      "size": 424086
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0084_998x61_9706x5905.2319605c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0084_998x61_9706x5905.2319605c.webp",
+      "size": 439818
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0084_998x61_9706x5905.a660672d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0084_998x61_9706x5905.a660672d.webp",
+      "size": 731512
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0087_672x63_9428x5962.ba5ff082.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0087_672x63_9428x5962.ba5ff082.webp",
+      "size": 416260
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0087_672x63_9428x5962.df162f51.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0087_672x63_9428x5962.df162f51.webp",
+      "size": 734610
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0090_653x72_9408x5967.2c60cb9f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0090_653x72_9408x5967.2c60cb9f.webp",
+      "size": 413130
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0093_2324x42_11137x6039.94046c0f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0093_2324x42_11137x6039.94046c0f.webp",
+      "size": 631024
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0093_2324x42_11137x6039.d8213bb9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0093_2324x42_11137x6039.d8213bb9.webp",
+      "size": 397130
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0096_2489x0_11344x6020.d85dcc5d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0096_2489x0_11344x6020.d85dcc5d.webp",
+      "size": 370116
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0099_2213x73_10976x6001.8f84ffb9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0099_2213x73_10976x6001.8f84ffb9.webp",
+      "size": 404702
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0099_2213x73_10976x6001.b63c26e2.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0099_2213x73_10976x6001.b63c26e2.webp",
+      "size": 639054
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0102_2098x130_10833x6021.20555277.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0102_2098x130_10833x6021.20555277.webp",
+      "size": 403930
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0102_2098x130_10833x6021.84129f25.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0102_2098x130_10833x6021.84129f25.webp",
+      "size": 636338
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0105_1632x228_10299x6029.ac44d76b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0105_1632x228_10299x6029.ac44d76b.webp",
+      "size": 380406
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0108_974x316_9678x6156.5041914a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0108_974x316_9678x6156.5041914a.webp",
+      "size": 665508
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0108_974x316_9678x6156.abea8dee.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0108_974x316_9678x6156.abea8dee.webp",
+      "size": 411608
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0111_667x453_9431x6374.28ca8b5f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0111_667x453_9431x6374.28ca8b5f.webp",
+      "size": 525332
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0111inpaintedv2_0x0_11940x6657.01e5eb51.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0111inpaintedv2_0x0_11940x6657.01e5eb51.webp",
+      "size": 231992
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0114_520x576_9320x6549.57521fbc.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0114_520x576_9320x6549.57521fbc.webp",
+      "size": 382554
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0117_165x619_9023x6657.58a73a2a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0117_165x619_9023x6657.58a73a2a.webp",
+      "size": 684576
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0117_165x619_9023x6657.6b927743.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0117_165x619_9023x6657.6b927743.webp",
+      "size": 383092
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/assets/playone0120_0x623_8888x6657.96a8019a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__assets_playone0120_0x623_8888x6657.96a8019a.webp",
+      "size": 416346
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/data/doc.json",
+      "asset_type": "data",
+      "local_name": "nyt_mckennie__data__data_doc.json",
+      "size": 3169
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/data/models.json",
+      "asset_type": "data",
+      "local_name": "nyt_mckennie__data__data_models.json",
+      "size": 74
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/usa-england-embed/3d-embed/index/76599e53-1fd1-48e5-92ba-cfc7436d58f7/_assets/allison-Artboard_1.png",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture___assets_allison-Artboard_1.png",
+      "size": 10175
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/12/18/multimedia/18world-cup-france-argentina-gamer-rory-final-1-0337/18world-cup-france-argentina-gamer-rory-final-1-0337-thumbLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__18world-cup-france-argentina-gamer-rory-final-1-0337_18world-cup-france-argentina-gamer-rory-final-1-0337-thumbLarge.jpg",
+      "size": 7074
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/12/18/multimedia/18world-cup-france-argentina-das-1-1b7c/18world-cup-france-argentina-das-1-1b7c-thumbLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale",
+      "asset_type": "texture",
+      "local_name": "nyt_mckennie__texture__18world-cup-france-argentina-das-1-1b7c_18world-cup-france-argentina-das-1-1b7c-thumbLarge.jpg",
+      "size": 3869
+    }
+  ],
+  "failed": []
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>A Volcano Turns a Town Into a Cemetery — WebXR</title>
+<link rel="stylesheet" href="./src/styles.css" />
+<script type="importmap">
+{
+  "imports": {
+    "three": "./vendor/three.module.js",
+    "three/addons/": "./vendor/addons/"
+  }
+}
+</script>
+</head>
+<body>
+<div id="overlay">
+  <div id="title-card">
+    <p class="kicker">The New York Times · World · Augmented Reality</p>
+    <h1 class="headline"></h1>
+    <p class="byline"></p>
+    <p class="hint">Drag to rotate · scroll to zoom · Next / Prev to step through · Enter VR for the immersive view.</p>
+  </div>
+  <div id="caption-panel"><p id="caption-text"></p></div>
+  <div id="nav">
+    <button id="prev-btn">‹ Prev</button>
+    <span id="beat-indicator"></span>
+    <button id="next-btn">Next ›</button>
+  </div>
+  <div id="loading">Loading the scan…</div>
+</div>
+<script type="module" src="./src/main.js?v=1"></script>
+</body>
+</html>

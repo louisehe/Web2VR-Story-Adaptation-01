@@ -1,0 +1,26 @@
+{
+  "headline": "Weston McKennie Is Going to Want This One Back",
+  "kicker": "Above The Action",
+  "byline": "By Chloé Desaulles, Alexandre Devaux, Malika Khurana, Eleanor Lutz, Allison McCann, Mark McKeague and Bedel Saget — Nov. 25, 2022",
+  "sourceUrl": "https://www.nytimes.com/interactive/2022/11/25/sports/world-cup/usa-weston-mckennie-england.html",
+  "beats": [
+    { "id": 0, "time": 0.2, "phase": "photo", "text": "AL KHOR, Qatar — The Americans held their own against England in their second group game of the World Cup on Friday, drawing 0-0 with one of the world's best teams. The U.S. created more scoring opportunities, many of which were led by Weston McKennie on the right wing." },
+    { "id": 1, "time": 1.0, "phase": "photo", "text": "In the 25th minute, McKennie stood on the far right side of the field, briefly pausing with the ball at his feet while he took stock of his teammates' positions." },
+    { "id": 2, "time": 3.0, "phase": "photo", "text": "He dribbled past two England defenders and then passed to Yunus Musah at the top of the box. (Keep your eye on McKennie's movement off the ball.)" },
+    { "id": 3, "time": 5.0, "phase": "photo", "text": "As Musah dribbled toward the end line, McKennie started to make a run into the box and toward the penalty spot." },
+    { "id": 4, "time": 6.3, "phase": "photo", "text": "McKennie lifted his arm to signal that he'd been left unmarked." },
+    { "id": 5, "time": 8.0, "phase": "photo", "text": "Meanwhile, the Americans patiently worked the ball back around to the top of the box. Tim Weah, wide open, took a big touch forward and lined up to deliver a cross into the middle." },
+    { "id": 6, "time": 10.0, "phase": "photo", "text": "Christian Pulisic darted toward the near post, dragging an English defender with him, leaving a pocket of open space for McKennie behind him." },
+    { "id": 7, "time": 12.0, "phase": "photo", "text": "As Weah's cross floated in, McKennie was free in the box with half the goal gaping." },
+    { "id": 8, "time": 14.6, "phase": "3d", "text": "McKennie struck the ball on the half-volley, skyrocketing it over the goal and into the stands." },
+    { "id": 9, "time": 18.0, "phase": "photo", "text": "With two ties in the group phase, the Americans must beat Iran in their next game if they hope to advance to the knockout stage." }
+  ],
+  "playerLabels": [
+    { "name": "McKennie", "mesh": "player_mesh_shooter" }
+  ],
+  "teamColors": {
+    "usa": "#244c9a",
+    "england": "#f2f2f0"
+  },
+  "methodology": "The 3-D scene was created using photographs and videos of the venue for reference. The positions of the players were determined from a photograph taken at that moment during the play and refined manually using photographs as reference."
+}

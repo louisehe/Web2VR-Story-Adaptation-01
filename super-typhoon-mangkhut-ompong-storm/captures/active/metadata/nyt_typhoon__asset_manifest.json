@@ -1,0 +1,77 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2018/09/15/world/asia/super-typhoon-mangkhut-ompong-storm.html",
+  "title": "See Inside Typhoon Mangkhut in 3-D - The New York Times",
+  "timestamp": "2026-06-15T08:48:58.123Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/09/15/super-typhoon-3d/assets/fb/models/cam3.glb",
+      "local_name": "nyt_typhoon__model__models_cam3.glb",
+      "size": 87296
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/09/15/super-typhoon-3d/a89254fbc9b3d7c0f672d0e54fedf7b6127d9c23/cover_temp2.jpg",
+      "local_name": "nyt_typhoon__texture__a89254fbc9b3d7c0f672d0e54fedf7b6127d9c23_cover_temp2.jpg",
+      "size": 1562228
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-ipad-144x144.png",
+      "local_name": "nyt_typhoon__texture__icons_ios-ipad-144x144.png",
+      "size": 3148
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-iphone-114x144.png",
+      "local_name": "nyt_typhoon__texture__icons_ios-iphone-114x144.png",
+      "size": 2440
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png",
+      "local_name": "nyt_typhoon__texture__icons_ios-default-homescreen-57x57.png",
+      "size": 1184
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/09/15/world/asia/typhoon-mangkhut-promo-image/typhoon-mangkhut-promo-image-videoSixteenByNineJumbo1600-v2.jpg?year=2018&amp;h=899&amp;w=1600&amp;s=1bfa2899ceef9c4de5d577d23e1c878ebcf6ca6cfdc24261bbfcb5d0ea32bc04&amp;k=ZQJBKqZ0VN&amp;tw=1",
+      "local_name": "nyt_typhoon__texture__typhoon-mangkhut-promo-image_typhoon-mangkhut-promo-image-videoSixteenByNineJumbo1600-v2.jpg",
+      "size": 619465
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/09/15/world/asia/typhoon-mangkhut-promo-image/typhoon-mangkhut-promo-image-facebookJumbo-v2.jpg?year=2018&amp;h=549&amp;w=1050&amp;s=28a55309971a7c4001846a0a86f70da292ac227ec23e27740adc50c8c391f020&amp;k=ZQJBKqZ0VN",
+      "local_name": "nyt_typhoon__texture__typhoon-mangkhut-promo-image_typhoon-mangkhut-promo-image-facebookJumbo-v2.jpg",
+      "size": 241968
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/09/15/world/asia/typhoon-mangkhut-promo-image/typhoon-mangkhut-promo-image-videoSixteenByNineJumbo1600-v2.jpg",
+      "local_name": "nyt_typhoon__texture__typhoon-mangkhut-promo-image_typhoon-mangkhut-promo-image-videoSixteenByNineJumbo1600-v2.jpg",
+      "size": 915327
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/09/15/world/asia/typhoon-mangkhut-promo-image/typhoon-mangkhut-promo-image-superJumbo.jpg",
+      "local_name": "nyt_typhoon__texture__typhoon-mangkhut-promo-image_typhoon-mangkhut-promo-image-superJumbo.jpg",
+      "size": 1323192
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "local_name": "nyt_typhoon__texture__icons_t_logo_291_black.png",
+      "size": 9011
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/icon-alert-12x12-a81817.png",
+      "local_name": "nyt_typhoon__texture__icons_icon-alert-12x12-a81817.png",
+      "size": 1080
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/09/15/super-typhoon-3d/assets/ui/dn_arrow.png",
+      "local_name": "nyt_typhoon__texture__ui_dn_arrow.png",
+      "size": 300
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/09/15/super-typhoon-3d/a89254fbc9b3d7c0f672d0e54fedf7b6127d9c23/cover_temp2_mob.jpg",
+      "local_name": "nyt_typhoon__texture__a89254fbc9b3d7c0f672d0e54fedf7b6127d9c23_cover_temp2_mob.jpg",
+      "size": 675554
+    }
+  ],
+  "failed": [
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/09/15/world/asia/cam3.glb"
+    }
+  ]
+}

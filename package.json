@@ -1,0 +1,26 @@
+{
+  "name": "web2vr-expert-a-adaptations",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Expert A: ten WebXR story adaptations (NYT) packaged for local HTTPS and headset testing.",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "check": "node --check spain-germany-world-cup-goal/webxr-adaptation/tools/build-story-instance.mjs && node --check spain-germany-world-cup-goal/webxr-adaptation/src/main.js && node --check canada-belgium-world-cup-goal-batshuayi/webxr-adaptation/tools/build-story-instance.mjs && node --check canada-belgium-world-cup-goal-batshuayi/webxr-adaptation/src/main.js && node --check usa-weston-mckennie-england/webxr-adaptation/tools/build-story-instance.mjs && node --check usa-weston-mckennie-england/webxr-adaptation/src/main.js && node --check chinatown-virtual-walk-tour/webxr-adaptation/src/main.js && node --check wear-mask-covid-particles-ul-fr/webxr-adaptation/src/main.js && node --check coronavirus-transmission-cough-6-feet-ar-ul/webxr-adaptation/src/main.js && node --check apollo-11-moon-landing-photos-ul/webxr-adaptation/src/main.js && node --check super-typhoon-mangkhut-ompong-storm/webxr-adaptation/src/main.js && node --check guatemala-volcano-augmented-reality-ar-ul/webxr-adaptation/src/main.js && node --check mars-nasa-insight-ar-3d-ul/webxr-adaptation/src/main.js && python3 -m py_compile https_server.py",
+    "serve:https": "python3 https_server.py",
+    "serve:https:lan": "python3 https_server.py --lan",
+    "dev:webxr": "vite --host 127.0.0.1",
+    "build:spain-webxr-data": "node spain-germany-world-cup-goal/webxr-adaptation/tools/build-story-instance.mjs",
+    "build:spain-webxr": "npm run build:spain-webxr-data && vite build spain-germany-world-cup-goal/webxr-adaptation --outDir ../dist-webxr-adaptation --base /spain-germany-world-cup-goal/dist-webxr-adaptation/ --emptyOutDir",
+    "build:all": "npm run build:spain-webxr && npm run build:belgium-webxr && npm run build:mckennie-webxr",
+    "build:belgium-webxr-data": "node canada-belgium-world-cup-goal-batshuayi/webxr-adaptation/tools/build-story-instance.mjs",
+    "build:belgium-webxr": "npm run build:belgium-webxr-data && vite build canada-belgium-world-cup-goal-batshuayi/webxr-adaptation --outDir ../dist-webxr-adaptation --base /canada-belgium-world-cup-goal-batshuayi/dist-webxr-adaptation/ --emptyOutDir",
+    "build:mckennie-webxr-data": "node usa-weston-mckennie-england/webxr-adaptation/tools/build-story-instance.mjs",
+    "build:mckennie-webxr": "npm run build:mckennie-webxr-data && vite build usa-weston-mckennie-england/webxr-adaptation --outDir ../dist-webxr-adaptation --base /usa-weston-mckennie-england/dist-webxr-adaptation/ --emptyOutDir"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}

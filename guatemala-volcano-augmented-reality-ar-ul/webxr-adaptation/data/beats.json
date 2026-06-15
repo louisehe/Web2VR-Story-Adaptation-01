@@ -1,0 +1,13 @@
+{
+ "headline": "A Volcano Turns a Town Into a Cemetery",
+ "byline": "The New York Times — June 19, 2018",
+ "sourceUrl": "https://www.nytimes.com/interactive/2018/06/19/world/americas/guatemala-volcano-augmented-reality-ar-ul.html",
+ "model": "models/car.glb",
+ "beats": [
+  { "caption": "When the Fuego volcano erupted in June, its pyroclastic flows buried much of the Guatemalan village of San Miguel Los Lotes.", "radius": 1.55, "phi": 1.02 },
+  { "caption": "The Volcán de Fuego exploded on June 3, throwing a billowing tower of ash more than a mile into the sky. Burning lava, rocks and gas cascaded down its slopes.", "radius": 1.5, "phi": 0.95 },
+  { "caption": "Nobody was prepared for the explosion at lunchtime, when a pyroclastic flow as hot as 1,600°F engulfed the village in deep ash.", "radius": 1.45, "phi": 1.1 },
+  { "caption": "San Miguel is a ghost town, life stopped in an instant. This truck and a nearby shed were buried in about three and a half feet of ash — scanned where they came to rest.", "radius": 1.05, "phi": 1.15 },
+  { "caption": "Rotate to explore the damage.", "radius": 1.4, "phi": 1.05 }
+ ]
+}

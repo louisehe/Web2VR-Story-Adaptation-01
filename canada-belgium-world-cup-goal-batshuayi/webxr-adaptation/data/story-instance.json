@@ -1,0 +1,30 @@
+{
+  "id": "canada-belgium-world-cup-goal-batshuayi-webxr",
+  "title": "Belgium's Long-Ball Goal Sinks a Determined Canada",
+  "byline": "By Weiyi Cai, Chloé Desaulles, Alexandre Devaux, Or Fleisher, Malika Khurana, Eleanor Lutz, Allison McCann, Mark McKeague, Scott Reinhard and Bedel Saget — Nov. 23, 2022",
+  "sourceUrl": "https://www.nytimes.com/interactive/2022/11/23/sports/world-cup/canada-belgium-world-cup-goal-batshuayi.html",
+  "assetRoot": "/canada-belgium-world-cup-goal-batshuayi/captures/active",
+  "pipeline": "projection-camera + photo-frame scrub (original NYT system reused)",
+  "models": [
+    "models/nyt_belgium__model__assets_world-cup-2022-belgium-canada-7.glb",
+    "models/nyt_belgium__model__assets_BELCAN_FieldLines.glb"
+  ],
+  "beatCount": 7,
+  "frameCount": 73,
+  "frameRange": [
+    0,
+    72
+  ],
+  "timelineLength": 15.01,
+  "playerLabels": [
+    {
+      "name": "Alderweireld",
+      "mesh": "player_mesh_belgium_3"
+    },
+    {
+      "name": "Batshuayi",
+      "mesh": "player_mesh_belgium_corrected"
+    }
+  ],
+  "generatedAt": "2026-06-15T03:36:59.134Z"
+}

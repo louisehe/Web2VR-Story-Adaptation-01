@@ -1,0 +1,42 @@
+{
+  "id": "spain-germany-world-cup-goal-webxr",
+  "title": "Germany’s Late Equalizer Revives Its World Cup Hopes",
+  "byline": "By Weiyi Cai, Chloé Desaulles, Alexandre Devaux, Or Fleisher, Allison McCann, Mark McKeague, Scott Reinhard and Bedel Saget — Nov. 27, 2022",
+  "sourceUrl": "https://www.nytimes.com/interactive/2022/11/27/sports/world-cup/spain-germany-world-cup-goal.html",
+  "assetRoot": "/spain-germany-world-cup-goal/captures/active",
+  "pipeline": "projection-camera + photo-frame scrub (original NYT system reused)",
+  "models": [
+    "models/nyt_spain_germany__model__assets_world-cup-2022-spain-germany.glb",
+    "models/nyt_spain_germany__model__assets_FieldAnnotations_spain_germany2.glb"
+  ],
+  "beatCount": 9,
+  "frameCount": 28,
+  "frameRange": [
+    4,
+    148
+  ],
+  "timelineLength": 14.72,
+  "playerLabels": [
+    {
+      "name": "Klostermann",
+      "mesh": "player_mesh_germany16"
+    },
+    {
+      "name": "Sané",
+      "mesh": "player_mesh_19"
+    },
+    {
+      "name": "Musiala",
+      "mesh": "player_mesh_germany14"
+    },
+    {
+      "name": "Füllkrug",
+      "mesh": "player_mesh_germany9"
+    },
+    {
+      "name": "Pedri",
+      "mesh": "player_mesh_spain26"
+    }
+  ],
+  "generatedAt": "2026-06-13T04:21:42.916Z"
+}

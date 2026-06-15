@@ -1,0 +1,1418 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2022/11/23/sports/world-cup/canada-belgium-world-cup-goal-batshuayi.html",
+  "title": "Michy Batshuayi Belgium’s Long-Ball Goal to Defeat a Determined Canada - The New York Times",
+  "timestamp": "2026-06-15T03:26:34.343Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/world-cup-2022-belgium-canada-7.glb",
+      "asset_type": "model",
+      "local_name": "nyt_belgium__model__assets_world-cup-2022-belgium-canada-7.glb",
+      "size": 954904
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/BELCAN_FieldLines.glb",
+      "asset_type": "model",
+      "local_name": "nyt_belgium__model__assets_BELCAN_FieldLines.glb",
+      "size": 264208
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0018inpainted_10942x467_19759x6405.465f3376.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0018inpainted_10942x467_19759x6405.465f3376.webp",
+      "size": 746960
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0001_117x700_10606x6938.67907fc0.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0001_117x700_10606x6938.67907fc0.webp",
+      "size": 458996
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0002_2477x198_12222x6643.542aa60d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0002_2477x198_12222x6643.542aa60d.webp",
+      "size": 77636
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0003_2753x181_12421x6587.ace1d699.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0003_2753x181_12421x6587.ace1d699.webp",
+      "size": 76314
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0002_2477x198_12222x6643.5ed2d420.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0002_2477x198_12222x6643.5ed2d420.webp",
+      "size": 453972
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0003_2753x181_12421x6587.b8b78821.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0003_2753x181_12421x6587.b8b78821.webp",
+      "size": 449450
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0006_4814x76_14005x6246.3e18937c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0006_4814x76_14005x6246.3e18937c.webp",
+      "size": 71952
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0006_4814x76_14005x6246.59b4ce2f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0006_4814x76_14005x6246.59b4ce2f.webp",
+      "size": 346302
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0009_7343x0_16121x5904.684a44f5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0009_7343x0_16121x5904.684a44f5.webp",
+      "size": 75244
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0009_7343x0_16121x5904.51b4875d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0009_7343x0_16121x5904.51b4875d.webp",
+      "size": 432424
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0012_9087x38_17765x5875.6103485a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0012_9087x38_17765x5875.6103485a.webp",
+      "size": 71534
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0012_9087x38_17765x5875.963376e2.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0012_9087x38_17765x5875.963376e2.webp",
+      "size": 394218
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0015_10187x214_18884x6074.465ceb97.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0015_10187x214_18884x6074.465ceb97.webp",
+      "size": 74348
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0015_10187x214_18884x6074.98132901.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0015_10187x214_18884x6074.98132901.webp",
+      "size": 429220
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0018_10942x467_19759x6405.b23a149a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0018_10942x467_19759x6405.b23a149a.webp",
+      "size": 75552
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0018_10942x467_19759x6405.90f4a8fe.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0018_10942x467_19759x6405.90f4a8fe.webp",
+      "size": 474338
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0021_11489x505_20462x6563.ec481375.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0021_11489x505_20462x6563.ec481375.webp",
+      "size": 80242
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0021_11489x505_20462x6563.fb6df1ef.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0021_11489x505_20462x6563.fb6df1ef.webp",
+      "size": 527546
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0024_11864x480_20944x6626.4100f59e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0024_11864x480_20944x6626.4100f59e.webp",
+      "size": 82550
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0024_11864x480_20944x6626.c04919f0.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0024_11864x480_20944x6626.c04919f0.webp",
+      "size": 522834
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0027_12451x358_21691x6601.bd640da8.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0027_12451x358_21691x6601.bd640da8.webp",
+      "size": 87622
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0030_12989x239_22402x6579.8bc40258.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0030_12989x239_22402x6579.8bc40258.webp",
+      "size": 516668
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0033_13490x183_23080x6621.e7965e09.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0033_13490x183_23080x6621.e7965e09.webp",
+      "size": 95312
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0030_12989x239_22402x6579.5fda29bd.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0030_12989x239_22402x6579.5fda29bd.webp",
+      "size": 90158
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0033_13490x183_23080x6621.d222514a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0033_13490x183_23080x6621.d222514a.webp",
+      "size": 520700
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0036_14130x206_23969x6783.53594a96.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0036_14130x206_23969x6783.53594a96.webp",
+      "size": 98300
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0036_14130x206_23969x6783.7d065d6d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0036_14130x206_23969x6783.7d065d6d.webp",
+      "size": 539976
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0039_14679x230_24761x6938.4ef2ae2a.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0039_14679x230_24761x6938.4ef2ae2a.webp",
+      "size": 100752
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0042_15218x223_25572x6938.ebfbfe17.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0042_15218x223_25572x6938.ebfbfe17.webp",
+      "size": 513270
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0045_15479x230_25959x6938.789dbb85.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0045_15479x230_25959x6938.789dbb85.webp",
+      "size": 104912
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0042_15218x223_25572x6938.c5017bbc.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0042_15218x223_25572x6938.c5017bbc.webp",
+      "size": 99674
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0045_15479x230_25959x6938.004d5ee0.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0045_15479x230_25959x6938.004d5ee0.webp",
+      "size": 566798
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0048_15660x233_26226x6938.dcb1db77.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0048_15660x233_26226x6938.dcb1db77.webp",
+      "size": 102862
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0048_15660x233_26226x6938.96b75d66.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0048_15660x233_26226x6938.96b75d66.webp",
+      "size": 568018
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0051_15737x238_26343x6938.c4a5ee69.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0051_15737x238_26343x6938.c4a5ee69.webp",
+      "size": 104618
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0054_15710x254_26302x6938.a5fe9b8b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0054_15710x254_26302x6938.a5fe9b8b.webp",
+      "size": 565816
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0057_15718x260_26314x6938.6a545d09.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0057_15718x260_26314x6938.6a545d09.webp",
+      "size": 103922
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0054_15710x254_26302x6938.1601e786.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0054_15710x254_26302x6938.1601e786.webp",
+      "size": 105534
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0057_15718x260_26314x6938.88dc77f6.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0057_15718x260_26314x6938.88dc77f6.webp",
+      "size": 575496
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0060_15655x264_26216x6938.5fd6497e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0060_15655x264_26216x6938.5fd6497e.webp",
+      "size": 104898
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/12/18/multimedia/18world-cup-france-argentina-gamer-rory-final-1-0337/18world-cup-france-argentina-gamer-rory-final-1-0337-thumbLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__18world-cup-france-argentina-gamer-rory-final-1-0337_18world-cup-france-argentina-gamer-rory-final-1-0337-thumbLarge.jpg",
+      "size": 7074
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/12/18/multimedia/18world-cup-france-argentina-das-1-1b7c/18world-cup-france-argentina-das-1-1b7c-thumbLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__18world-cup-france-argentina-das-1-1b7c_18world-cup-france-argentina-das-1-1b7c-thumbLarge.jpg",
+      "size": 3869
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/23/sports/belgium-canada-playername-goal-tktk-promo/belgium-canada-playername-goal-tktk-promo-videoSixteenByNine3000.jpg?year=2022&amp;h=1690&amp;w=3000&amp;s=cc83e7cde25ecf66f3bc8cdecdf34d86f1ef7f663d1ddfd2ba5d0cdc75fbf93c&amp;k=ZQJBKqZ0VN&amp;tw=1",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__belgium-canada-playername-goal-tktk-promo_belgium-canada-playername-goal-tktk-promo-videoSixteenByNine3000.jpg",
+      "size": 605289
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/23/sports/belgium-canada-playername-goal-tktk-promo/belgium-canada-playername-goal-tktk-promo-facebookJumbo.jpg?year=2022&amp;h=549&amp;w=1050&amp;s=780f75fee8763ec456eb20e258b5a1f870ce63f6ff75edd7ebc3b72e411f9c4c&amp;k=ZQJBKqZ0VN",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__belgium-canada-playername-goal-tktk-promo_belgium-canada-playername-goal-tktk-promo-facebookJumbo.jpg",
+      "size": 110713
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/23/sports/belgium-canada-playername-goal-tktk-promo/belgium-canada-playername-goal-tktk-promo-videoSixteenByNineJumbo1600.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__belgium-canada-playername-goal-tktk-promo_belgium-canada-playername-goal-tktk-promo-videoSixteenByNineJumbo1600.jpg",
+      "size": 431902
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/23/sports/belgium-canada-playername-goal-tktk-promo/belgium-canada-playername-goal-tktk-promo-superJumbo.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__belgium-canada-playername-goal-tktk-promo_belgium-canada-playername-goal-tktk-promo-superJumbo.jpg",
+      "size": 452803
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/11/23/sports/belgium-canada-playername-goal-tktk-promo/belgium-canada-playername-goal-tktk-promo-mediumSquareAt3X.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__belgium-canada-playername-goal-tktk-promo_belgium-canada-playername-goal-tktk-promo-mediumSquareAt3X.jpg",
+      "size": 277536
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0000_0x750_10537x6938.1f588789.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0000_0x750_10537x6938.1f588789.webp",
+      "size": 434752
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0000_0x750_10537x6938.cf73ec50.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0000_0x750_10537x6938.cf73ec50.webp",
+      "size": 234904
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0000_0x750_10537x6938.e03dd47b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0000_0x750_10537x6938.e03dd47b.webp",
+      "size": 65770
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0001_117x700_10606x6938.90e66e2f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0001_117x700_10606x6938.90e66e2f.webp",
+      "size": 68562
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0001_117x700_10606x6938.ed86704b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0001_117x700_10606x6938.ed86704b.webp",
+      "size": 245870
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0002_2477x198_12222x6643.00437f10.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0002_2477x198_12222x6643.00437f10.webp",
+      "size": 258944
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0003_2753x181_12421x6587.3e2ffb30.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0003_2753x181_12421x6587.3e2ffb30.webp",
+      "size": 283538
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0004_3066x165_12654x6531.4e698c1f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0004_3066x165_12654x6531.4e698c1f.webp",
+      "size": 79416
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0004_3066x165_12654x6531.55998a42.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0004_3066x165_12654x6531.55998a42.webp",
+      "size": 448144
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0004_3066x165_12654x6531.ab65930c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0004_3066x165_12654x6531.ab65930c.webp",
+      "size": 288858
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0005_3714x127_13146x6419.85174f8d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0005_3714x127_13146x6419.85174f8d.webp",
+      "size": 270100
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0005_3714x127_13146x6419.89ad7297.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0005_3714x127_13146x6419.89ad7297.webp",
+      "size": 448396
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0005_3714x127_13146x6419.f4eb2d45.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0005_3714x127_13146x6419.f4eb2d45.webp",
+      "size": 77942
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0006_4814x76_14005x6246.a395dacb.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0006_4814x76_14005x6246.a395dacb.webp",
+      "size": 207758
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0007_5833x39_14828x6091.47d316b7.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0007_5833x39_14828x6091.47d316b7.webp",
+      "size": 305786
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0007_5833x39_14828x6091.73803c58.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0007_5833x39_14828x6091.73803c58.webp",
+      "size": 68058
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0007_5833x39_14828x6091.f6807cb2.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0007_5833x39_14828x6091.f6807cb2.webp",
+      "size": 186838
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0008_6649x12_15513x5979.0b332ee3.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0008_6649x12_15513x5979.0b332ee3.webp",
+      "size": 451012
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0008_6649x12_15513x5979.186c120d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0008_6649x12_15513x5979.186c120d.webp",
+      "size": 250574
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0008_6649x12_15513x5979.3a5e7261.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0008_6649x12_15513x5979.3a5e7261.webp",
+      "size": 76946
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0009_7343x0_16121x5904.79224252.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0009_7343x0_16121x5904.79224252.webp",
+      "size": 267512
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0010_7940x0_16665x5866.2c4037f2.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0010_7940x0_16665x5866.2c4037f2.webp",
+      "size": 74828
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0010_7940x0_16665x5866.ca6aeba7.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0010_7940x0_16665x5866.ca6aeba7.webp",
+      "size": 240716
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0010_7940x0_16665x5866.d3462cb8.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0010_7940x0_16665x5866.d3462cb8.webp",
+      "size": 404246
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0011_8545x5_17236x5855.06c84b58.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0011_8545x5_17236x5855.06c84b58.webp",
+      "size": 406660
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0011_8545x5_17236x5855.4b4e0f02.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0011_8545x5_17236x5855.4b4e0f02.webp",
+      "size": 260954
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0011_8545x5_17236x5855.763f8279.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0011_8545x5_17236x5855.763f8279.webp",
+      "size": 75062
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0012_9087x38_17765x5875.53f839e1.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0012_9087x38_17765x5875.53f839e1.webp",
+      "size": 262918
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0013_9548x74_18226x5898.0c75b49d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0013_9548x74_18226x5898.0c75b49d.webp",
+      "size": 74910
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0013_9548x74_18226x5898.1d4cc3a5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0013_9548x74_18226x5898.1d4cc3a5.webp",
+      "size": 273122
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0013_9548x74_18226x5898.894dee2d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0013_9548x74_18226x5898.894dee2d.webp",
+      "size": 409170
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0014_9905x132_18590x5967.0854c0e5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0014_9905x132_18590x5967.0854c0e5.webp",
+      "size": 402046
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0014_9905x132_18590x5967.771e1cad.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0014_9905x132_18590x5967.771e1cad.webp",
+      "size": 72876
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0014_9905x132_18590x5967.cc0902c9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0014_9905x132_18590x5967.cc0902c9.webp",
+      "size": 241032
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0015_10187x214_18884x6074.b3604a7d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0015_10187x214_18884x6074.b3604a7d.webp",
+      "size": 253210
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0016_10428x299_19138x6180.054e5aad.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0016_10428x299_19138x6180.054e5aad.webp",
+      "size": 261736
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0016_10428x299_19138x6180.2cc6614b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0016_10428x299_19138x6180.2cc6614b.webp",
+      "size": 480824
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0016_10428x299_19138x6180.74607ca9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0016_10428x299_19138x6180.74607ca9.webp",
+      "size": 75668
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0017_10674x391_19426x6298.06505ba6.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0017_10674x391_19426x6298.06505ba6.webp",
+      "size": 77886
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0017_10674x391_19426x6298.67a7f8df.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0017_10674x391_19426x6298.67a7f8df.webp",
+      "size": 494872
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0017_10674x391_19426x6298.df916308.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0017_10674x391_19426x6298.df916308.webp",
+      "size": 291112
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0018_10942x467_19759x6405.cb3e1cba.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0018_10942x467_19759x6405.cb3e1cba.webp",
+      "size": 286784
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0018inpainted_10942x467_19759x6405.e41abcd0.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0018inpainted_10942x467_19759x6405.e41abcd0.webp",
+      "size": 251684
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0019_11202x501_20087x6480.752d1e88.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0019_11202x501_20087x6480.752d1e88.webp",
+      "size": 288082
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0019_11202x501_20087x6480.7f10f5f0.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0019_11202x501_20087x6480.7f10f5f0.webp",
+      "size": 78532
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0019_11202x501_20087x6480.e1578d56.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0019_11202x501_20087x6480.e1578d56.webp",
+      "size": 502406
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0020_11389x504_20329x6530.6d24dd68.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0020_11389x504_20329x6530.6d24dd68.webp",
+      "size": 305770
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0020_11389x504_20329x6530.8d018f37.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0020_11389x504_20329x6530.8d018f37.webp",
+      "size": 501828
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0020_11389x504_20329x6530.eb637e07.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0020_11389x504_20329x6530.eb637e07.webp",
+      "size": 80584
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0021_11489x505_20462x6563.5d621617.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0021_11489x505_20462x6563.5d621617.webp",
+      "size": 277484
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0022_11610x508_20616x6595.5294461d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0022_11610x508_20616x6595.5294461d.webp",
+      "size": 81716
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0022_11610x508_20616x6595.bbb09a22.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0022_11610x508_20616x6595.bbb09a22.webp",
+      "size": 506492
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0022_11610x508_20616x6595.d4ada5c3.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0022_11610x508_20616x6595.d4ada5c3.webp",
+      "size": 309482
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0023_11714x501_20751x6614.70c80260.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0023_11714x501_20751x6614.70c80260.webp",
+      "size": 309462
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0023_11714x501_20751x6614.ba68c8e7.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0023_11714x501_20751x6614.ba68c8e7.webp",
+      "size": 533482
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0023_11714x501_20751x6614.bcf4ca56.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0023_11714x501_20751x6614.bcf4ca56.webp",
+      "size": 80572
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0024_11864x480_20944x6626.b2a041b7.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0024_11864x480_20944x6626.b2a041b7.webp",
+      "size": 276558
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0025_12028x453_21152x6627.de7e2661.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0025_12028x453_21152x6627.de7e2661.webp",
+      "size": 81474
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0025_12028x453_21152x6627.e4d28865.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0025_12028x453_21152x6627.e4d28865.webp",
+      "size": 268882
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0025_12028x453_21152x6627.e6a10d20.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0025_12028x453_21152x6627.e6a10d20.webp",
+      "size": 476988
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0026_12224x410_21400x6617.49f22296.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0026_12224x410_21400x6617.49f22296.webp",
+      "size": 85344
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0026_12224x410_21400x6617.537064e6.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0026_12224x410_21400x6617.537064e6.webp",
+      "size": 500190
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0026_12224x410_21400x6617.fdb0c90d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0026_12224x410_21400x6617.fdb0c90d.webp",
+      "size": 304082
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0027_12451x358_21691x6601.14398d46.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0027_12451x358_21691x6601.14398d46.webp",
+      "size": 502314
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0027_12451x358_21691x6601.61ca905b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0027_12451x358_21691x6601.61ca905b.webp",
+      "size": 278608
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0028_12664x312_21968x6591.0c8b6964.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0028_12664x312_21968x6591.0c8b6964.webp",
+      "size": 490562
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0028_12664x312_21968x6591.6733113d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0028_12664x312_21968x6591.6733113d.webp",
+      "size": 274790
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0028_12664x312_21968x6591.a9b6413e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0028_12664x312_21968x6591.a9b6413e.webp",
+      "size": 87996
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0029_12837x272_22199x6584.79e936a9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0029_12837x272_22199x6584.79e936a9.webp",
+      "size": 91154
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0029_12837x272_22199x6584.90152903.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0029_12837x272_22199x6584.90152903.webp",
+      "size": 515476
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0029_12837x272_22199x6584.d539747c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0029_12837x272_22199x6584.d539747c.webp",
+      "size": 286346
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0030_12989x239_22402x6579.016c2b86.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0030_12989x239_22402x6579.016c2b86.webp",
+      "size": 313594
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0031_13131x211_22595x6580.7ccd1d47.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0031_13131x211_22595x6580.7ccd1d47.webp",
+      "size": 93632
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0031_13131x211_22595x6580.d08edc3c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0031_13131x211_22595x6580.d08edc3c.webp",
+      "size": 509416
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0031_13131x211_22595x6580.eb687e26.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0031_13131x211_22595x6580.eb687e26.webp",
+      "size": 312480
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0032_13263x192_22774x6589.00e5c11c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0032_13263x192_22774x6589.00e5c11c.webp",
+      "size": 92478
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0032_13263x192_22774x6589.172a8b67.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0032_13263x192_22774x6589.172a8b67.webp",
+      "size": 319992
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0032_13263x192_22774x6589.1f96e6df.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0032_13263x192_22774x6589.1f96e6df.webp",
+      "size": 537946
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0033_13490x183_23080x6621.6a891bad.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0033_13490x183_23080x6621.6a891bad.webp",
+      "size": 291762
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0034_13709x183_23382x6668.0f8be982.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0034_13709x183_23382x6668.0f8be982.webp",
+      "size": 319552
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0034_13709x183_23382x6668.8327ca23.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0034_13709x183_23382x6668.8327ca23.webp",
+      "size": 95182
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0034_13709x183_23382x6668.89899781.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0034_13709x183_23382x6668.89899781.webp",
+      "size": 524286
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0035_13922x191_23678x6723.18cd95ff.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0035_13922x191_23678x6723.18cd95ff.webp",
+      "size": 316370
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0035_13922x191_23678x6723.75b613e4.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0035_13922x191_23678x6723.75b613e4.webp",
+      "size": 96944
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0035_13922x191_23678x6723.e142d322.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0035_13922x191_23678x6723.e142d322.webp",
+      "size": 517656
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0036_14130x206_23969x6783.da4eca15.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0036_14130x206_23969x6783.da4eca15.webp",
+      "size": 326228
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0037_14313x218_24229x6836.1f713886.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0037_14313x218_24229x6836.1f713886.webp",
+      "size": 559436
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0037_14313x218_24229x6836.46519726.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0037_14313x218_24229x6836.46519726.webp",
+      "size": 99452
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0037_14313x218_24229x6836.69b60ae6.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0037_14313x218_24229x6836.69b60ae6.webp",
+      "size": 350400
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0038_14468x226_24453x6883.097eada3.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0038_14468x226_24453x6883.097eada3.webp",
+      "size": 100376
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0038_14468x226_24453x6883.6925a102.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0038_14468x226_24453x6883.6925a102.webp",
+      "size": 542106
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0038_14468x226_24453x6883.eaffe575.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0038_14468x226_24453x6883.eaffe575.webp",
+      "size": 307978
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0039_14679x230_24761x6938.66d3e6cb.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0039_14679x230_24761x6938.66d3e6cb.webp",
+      "size": 541192
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0039_14679x230_24761x6938.823b08ed.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0039_14679x230_24761x6938.823b08ed.webp",
+      "size": 305430
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0040_14890x227_25076x6938.a6e59251.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0040_14890x227_25076x6938.a6e59251.webp",
+      "size": 101280
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0040_14890x227_25076x6938.adaf72fe.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0040_14890x227_25076x6938.adaf72fe.webp",
+      "size": 309042
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0040_14890x227_25076x6938.da9e005d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0040_14890x227_25076x6938.da9e005d.webp",
+      "size": 533166
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0041_15090x223_25378x6938.9ae0cfb9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0041_15090x223_25378x6938.9ae0cfb9.webp",
+      "size": 320322
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0041_15090x223_25378x6938.abfa8580.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0041_15090x223_25378x6938.abfa8580.webp",
+      "size": 553066
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0041_15090x223_25378x6938.c6f75d25.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0041_15090x223_25378x6938.c6f75d25.webp",
+      "size": 103514
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0042_15218x223_25572x6938.7bd6f50c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0042_15218x223_25572x6938.7bd6f50c.webp",
+      "size": 324928
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0043_15321x224_25726x6938.44d21f5d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0043_15321x224_25726x6938.44d21f5d.webp",
+      "size": 536806
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0043_15321x224_25726x6938.86156049.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0043_15321x224_25726x6938.86156049.webp",
+      "size": 103252
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0043_15321x224_25726x6938.ab348873.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0043_15321x224_25726x6938.ab348873.webp",
+      "size": 312666
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0044_15405x227_25851x6938.14c18175.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0044_15405x227_25851x6938.14c18175.webp",
+      "size": 355130
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0044_15405x227_25851x6938.2007f3d5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0044_15405x227_25851x6938.2007f3d5.webp",
+      "size": 572346
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0044_15405x227_25851x6938.45491981.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0044_15405x227_25851x6938.45491981.webp",
+      "size": 102340
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0045_15479x230_25959x6938.d28c5234.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0045_15479x230_25959x6938.d28c5234.webp",
+      "size": 352474
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0046_15545x231_26056x6938.65a87448.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0046_15545x231_26056x6938.65a87448.webp",
+      "size": 104312
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0046_15545x231_26056x6938.9a03deb8.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0046_15545x231_26056x6938.9a03deb8.webp",
+      "size": 563974
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0046_15545x231_26056x6938.e7602748.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0046_15545x231_26056x6938.e7602748.webp",
+      "size": 348340
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0047_15606x232_26146x6938.72ae2fc1.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0047_15606x232_26146x6938.72ae2fc1.webp",
+      "size": 545210
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0047_15606x232_26146x6938.e478f98d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0047_15606x232_26146x6938.e478f98d.webp",
+      "size": 102956
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0047_15606x232_26146x6938.f20056aa.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0047_15606x232_26146x6938.f20056aa.webp",
+      "size": 316098
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0048_15660x233_26226x6938.54215127.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0048_15660x233_26226x6938.54215127.webp",
+      "size": 352264
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0049_15701x233_26288x6938.097b90c4.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0049_15701x233_26288x6938.097b90c4.webp",
+      "size": 563840
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0049_15701x233_26288x6938.49af3dd5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0049_15701x233_26288x6938.49af3dd5.webp",
+      "size": 322606
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0049_15701x233_26288x6938.84f9e095.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0049_15701x233_26288x6938.84f9e095.webp",
+      "size": 103886
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0050_15726x235_26326x6938.1127cbd7.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0050_15726x235_26326x6938.1127cbd7.webp",
+      "size": 320114
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0050_15726x235_26326x6938.350f6c8f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0050_15726x235_26326x6938.350f6c8f.webp",
+      "size": 103974
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0050_15726x235_26326x6938.ccc99892.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0050_15726x235_26326x6938.ccc99892.webp",
+      "size": 559080
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0051_15737x238_26343x6938.57b04ce5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0051_15737x238_26343x6938.57b04ce5.webp",
+      "size": 562448
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0051_15737x238_26343x6938.c9557251.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0051_15737x238_26343x6938.c9557251.webp",
+      "size": 322902
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0052_15731x243_26333x6938.2b2d0a75.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0052_15731x243_26333x6938.2b2d0a75.webp",
+      "size": 565568
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0052_15731x243_26333x6938.2c3aba2d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0052_15731x243_26333x6938.2c3aba2d.webp",
+      "size": 350778
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0052_15731x243_26333x6938.8212270e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0052_15731x243_26333x6938.8212270e.webp",
+      "size": 102836
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0053_15713x249_26305x6938.5dee3891.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0053_15713x249_26305x6938.5dee3891.webp",
+      "size": 350894
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0053_15713x249_26305x6938.69f62c05.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0053_15713x249_26305x6938.69f62c05.webp",
+      "size": 103192
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0053_15713x249_26305x6938.cef3542b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0053_15713x249_26305x6938.cef3542b.webp",
+      "size": 567988
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0054_15710x254_26302x6938.6c4d6fc0.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0054_15710x254_26302x6938.6c4d6fc0.webp",
+      "size": 352010
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0055_15718x256_26315x6938.0bbc4464.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0055_15718x256_26315x6938.0bbc4464.webp",
+      "size": 576446
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0055_15718x256_26315x6938.66aa875b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0055_15718x256_26315x6938.66aa875b.webp",
+      "size": 354782
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0055_15718x256_26315x6938.6a6492e6.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0055_15718x256_26315x6938.6a6492e6.webp",
+      "size": 102794
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0056_15723x258_26323x6938.384486c2.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0056_15723x258_26323x6938.384486c2.webp",
+      "size": 320828
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0056_15723x258_26323x6938.3fea0c90.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0056_15723x258_26323x6938.3fea0c90.webp",
+      "size": 560988
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0056_15723x258_26323x6938.bf096632.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0056_15723x258_26323x6938.bf096632.webp",
+      "size": 103870
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0057_15718x260_26314x6938.5f5f2dcd.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0057_15718x260_26314x6938.5f5f2dcd.webp",
+      "size": 321930
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0058_15704x261_26291x6938.0c29b646.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0058_15704x261_26291x6938.0c29b646.webp",
+      "size": 567268
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0058_15704x261_26291x6938.5b0ca3ab.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0058_15704x261_26291x6938.5b0ca3ab.webp",
+      "size": 104210
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0058_15704x261_26291x6938.645b1221.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0058_15704x261_26291x6938.645b1221.webp",
+      "size": 322040
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0059_15683x263_26258x6938.2118a307.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0059_15683x263_26258x6938.2118a307.webp",
+      "size": 561396
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0059_15683x263_26258x6938.90339d32.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0059_15683x263_26258x6938.90339d32.webp",
+      "size": 321344
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0059_15683x263_26258x6938.943c388c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0059_15683x263_26258x6938.943c388c.webp",
+      "size": 103654
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0060_15655x264_26216x6938.40287f8b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0060_15655x264_26216x6938.40287f8b.webp",
+      "size": 348888
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0060_15655x264_26216x6938.9430699f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0060_15655x264_26216x6938.9430699f.webp",
+      "size": 562540
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0061_15629x265_26176x6938.3125c9b3.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0061_15629x265_26176x6938.3125c9b3.webp",
+      "size": 103448
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0061_15629x265_26176x6938.37de0903.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0061_15629x265_26176x6938.37de0903.webp",
+      "size": 320984
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0061_15629x265_26176x6938.fd3901d9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0061_15629x265_26176x6938.fd3901d9.webp",
+      "size": 572148
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0062_15596x265_26126x6938.2f13b003.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0062_15596x265_26126x6938.2f13b003.webp",
+      "size": 321116
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0062_15596x265_26126x6938.774f3819.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0062_15596x265_26126x6938.774f3819.webp",
+      "size": 567754
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0062_15596x265_26126x6938.972dda36.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0062_15596x265_26126x6938.972dda36.webp",
+      "size": 104032
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0063_15557x264_26067x6938.0253b794.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0063_15557x264_26067x6938.0253b794.webp",
+      "size": 350190
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0063_15557x264_26067x6938.a5755ec9.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0063_15557x264_26067x6938.a5755ec9.webp",
+      "size": 561632
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0063_15557x264_26067x6938.d05bcdba.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0063_15557x264_26067x6938.d05bcdba.webp",
+      "size": 104718
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0064_15516x260_26004x6938.0520bf4d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0064_15516x260_26004x6938.0520bf4d.webp",
+      "size": 564876
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0064_15516x260_26004x6938.397e24a1.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0064_15516x260_26004x6938.397e24a1.webp",
+      "size": 322138
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0064_15516x260_26004x6938.b0d4c20e.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0064_15516x260_26004x6938.b0d4c20e.webp",
+      "size": 103464
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0065_15479x252_25950x6938.4d089926.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0065_15479x252_25950x6938.4d089926.webp",
+      "size": 102664
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0065_15479x252_25950x6938.a17ff749.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0065_15479x252_25950x6938.a17ff749.webp",
+      "size": 562412
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0065_15479x252_25950x6938.a5978bd5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0065_15479x252_25950x6938.a5978bd5.webp",
+      "size": 349052
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0066_15451x243_25911x6938.470221b0.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0066_15451x243_25911x6938.470221b0.webp",
+      "size": 350290
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0066_15451x243_25911x6938.de0f035f.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0066_15451x243_25911x6938.de0f035f.webp",
+      "size": 104776
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0066_15451x243_25911x6938.f2568d99.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0066_15451x243_25911x6938.f2568d99.webp",
+      "size": 563898
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0067_15427x236_25874x6938.211c1450.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0067_15427x236_25874x6938.211c1450.webp",
+      "size": 576774
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0067_15427x236_25874x6938.280726d5.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0067_15427x236_25874x6938.280726d5.webp",
+      "size": 102662
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0067_15427x236_25874x6938.7c27d4df.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0067_15427x236_25874x6938.7c27d4df.webp",
+      "size": 352258
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0068_15398x230_25830x6938.56e2e4a1.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0068_15398x230_25830x6938.56e2e4a1.webp",
+      "size": 352714
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0068_15398x230_25830x6938.5c15fd23.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0068_15398x230_25830x6938.5c15fd23.webp",
+      "size": 574996
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0068_15398x230_25830x6938.735f195d.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0068_15398x230_25830x6938.735f195d.webp",
+      "size": 104900
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0069_15366x227_25780x6938.3958bd3b.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0069_15366x227_25780x6938.3958bd3b.webp",
+      "size": 352856
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0069_15366x227_25780x6938.83b83c0c.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0069_15366x227_25780x6938.83b83c0c.webp",
+      "size": 567924
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0069_15366x227_25780x6938.d0da41a1.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0069_15366x227_25780x6938.d0da41a1.webp",
+      "size": 103232
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0070_15329x221_25724x6938.32c2c7fd.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0070_15329x221_25724x6938.32c2c7fd.webp",
+      "size": 324484
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0070_15329x221_25724x6938.33b962a7.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0070_15329x221_25724x6938.33b962a7.webp",
+      "size": 103810
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0070_15329x221_25724x6938.de73a1ba.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0070_15329x221_25724x6938.de73a1ba.webp",
+      "size": 564488
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0071_15293x215_25671x6938.5af864b8.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0071_15293x215_25671x6938.5af864b8.webp",
+      "size": 104040
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0071_15293x215_25671x6938.609f6706.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0071_15293x215_25671x6938.609f6706.webp",
+      "size": 558494
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0071_15293x215_25671x6938.fad143bf.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0071_15293x215_25671x6938.fad143bf.webp",
+      "size": 324006
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0072_15256x209_25615x6938.67187dec.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0072_15256x209_25615x6938.67187dec.webp",
+      "size": 102094
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0072_15256x209_25615x6938.dff7f8da.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0072_15256x209_25615x6938.dff7f8da.webp",
+      "size": 568754
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/assets/bf0072_15256x209_25615x6938.ee5e9a11.webp",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__assets_bf0072_15256x209_25615x6938.ee5e9a11.webp",
+      "size": 353812
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/data/doc.json",
+      "asset_type": "data",
+      "local_name": "nyt_belgium__data__data_doc.json",
+      "size": 2449
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/data/models.json",
+      "asset_type": "data",
+      "local_name": "nyt_belgium__data__data_models.json",
+      "size": 74
+    },
+    {
+      "asset_url": "https://static01.nytimes.com/newsgraphics/belgium-canada-embed/3d-embed/index/3441c893-97d0-4105-88cd-75daad934194/data/state.json",
+      "asset_type": "data",
+      "local_name": "nyt_belgium__data__data_state.json",
+      "size": 88057
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/12/18/multimedia/18world-cup-france-argentina-gamer-rory-final-1-0337/18world-cup-france-argentina-gamer-rory-final-1-0337-thumbLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__18world-cup-france-argentina-gamer-rory-final-1-0337_18world-cup-france-argentina-gamer-rory-final-1-0337-thumbLarge.jpg",
+      "size": 7074
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/12/18/multimedia/18world-cup-france-argentina-das-1-1b7c/18world-cup-france-argentina-das-1-1b7c-thumbLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale",
+      "asset_type": "texture",
+      "local_name": "nyt_belgium__texture__18world-cup-france-argentina-das-1-1b7c_18world-cup-france-argentina-das-1-1b7c-thumbLarge.jpg",
+      "size": 3869
+    }
+  ],
+  "failed": []
+}

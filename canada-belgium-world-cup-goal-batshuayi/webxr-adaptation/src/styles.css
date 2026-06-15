@@ -1,0 +1,26 @@
+html, body { margin: 0; height: 100%; background: #0c0f0d; overflow: hidden; font-family: georgia, 'times new roman', serif; }
+canvas { display: block; }
+#photo-layer { position: fixed; inset: 0; z-index: 1; pointer-events: none; background: #0c0f0d; transition: opacity .2s linear; }
+#photo-layer img { width: 100%; height: 100%; object-fit: cover; }
+#overlay { position: fixed; inset: 0; pointer-events: none; color: #fff; z-index: 2; }
+
+#title-card { position: absolute; top: 4vh; left: 50%; transform: translateX(-50%); width: min(720px, 90vw); text-align: center; text-shadow: 0 1px 6px rgba(0,0,0,.8); transition: opacity .6s; }
+#title-card .kicker { font-family: helvetica, arial, sans-serif; font-size: 13px; letter-spacing: .2em; text-transform: uppercase; color: #d0d0d0; margin: 0 0 8px; }
+#title-card .headline { font-size: clamp(24px, 4.5vw, 42px); line-height: 1.15; margin: 0 0 10px; font-weight: 700; }
+#title-card .byline { font-family: helvetica, arial, sans-serif; font-size: 12px; color: #c5c5c5; margin: 0 0 6px; }
+#title-card .hint { font-family: helvetica, arial, sans-serif; font-size: 12px; color: #9adba8; margin: 0; }
+#title-card.hidden { opacity: 0; }
+
+#caption-panel { position: absolute; bottom: 11vh; left: 50%; transform: translateX(-50%); width: min(560px, 88vw); background: rgba(12,14,13,.82); border: 1px solid rgba(255,255,255,.14); border-radius: 10px; padding: 14px 20px; backdrop-filter: blur(4px); }
+#caption-text { margin: 0; font-size: 17px; line-height: 1.5; }
+
+#nav { position: absolute; bottom: 3vh; left: 50%; transform: translateX(-50%); display: flex; gap: 14px; align-items: center; pointer-events: auto; font-family: helvetica, arial, sans-serif; }
+#nav button { background: #f3f3f3; color: #111; border: 0; border-radius: 20px; padding: 9px 22px; font-size: 15px; cursor: pointer; }
+#nav button:disabled { opacity: .35; cursor: default; }
+#beat-indicator { font-size: 13px; color: #bbb; min-width: 52px; text-align: center; }
+
+#loading { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: #0c0f0d; font-family: helvetica, arial, sans-serif; color: #9adba8; font-size: 15px; transition: opacity .5s; }
+#loading.done { opacity: 0; pointer-events: none; }
+
+/* keep three.js VRButton clear of the nav */
+body > button#VRButton { bottom: 3vh !important; right: 3vw !important; left: auto !important; transform: none !important; }

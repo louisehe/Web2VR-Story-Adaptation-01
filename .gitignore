@@ -1,0 +1,11 @@
+.DS_Store
+.certs/
+node_modules/
+__pycache__/
+*.pyc
+dist-webxr-adaptation/
+
+# Captured article images / thumbnails — provenance only, not needed to run the stories.
+# (Some have very long doubled filenames that exceed the Windows path limit and break git.)
+**/captures/active/textures/*
+!**/captures/active/textures/.gitkeep

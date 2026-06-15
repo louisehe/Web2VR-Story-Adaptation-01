@@ -1,0 +1,320 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2018/05/01/science/mars-nasa-insight-ar-3d-ul.html",
+  "title": "Augmented Reality: Explore NASA’s InSight Mission on Mars - The New York Times",
+  "timestamp": "2026-06-15T09:41:42.464Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/insight.glb",
+      "local_name": "nyt_insight__model___Mars_insight.glb",
+      "size": 33804
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/curiosity.glb",
+      "local_name": "nyt_insight__model___Mars_curiosity.glb",
+      "size": 33788
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/opportunity.glb",
+      "local_name": "nyt_insight__model___Mars_opportunity.glb",
+      "size": 33812
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/phoenix.glb",
+      "local_name": "nyt_insight__model___Mars_phoenix.glb",
+      "size": 33804
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/spirit.glb",
+      "local_name": "nyt_insight__model___Mars_spirit.glb",
+      "size": 33804
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/pathfinder.glb",
+      "local_name": "nyt_insight__model___Mars_pathfinder.glb",
+      "size": 33808
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/viking2.glb",
+      "local_name": "nyt_insight__model___Mars_viking2.glb",
+      "size": 33780
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/viking1.glb",
+      "local_name": "nyt_insight__model___Mars_viking1.glb",
+      "size": 31944
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Lander/heatprobe.glb",
+      "local_name": "nyt_insight__model___Lander_heatprobe.glb",
+      "size": 7964
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Lander/rise.glb",
+      "local_name": "nyt_insight__model___Lander_rise.glb",
+      "size": 7220
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/mars.glb",
+      "local_name": "nyt_insight__model___Mars_mars.glb",
+      "size": 2334920
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/starfield_milkyway.glb",
+      "local_name": "nyt_insight__model___Mars_starfield_milkyway.glb",
+      "size": 606128
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/inactivepins.glb",
+      "local_name": "nyt_insight__model___Mars_inactivepins.glb",
+      "size": 280832
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Lander/lander.glb",
+      "local_name": "nyt_insight__model___Lander_lander.glb",
+      "size": 5339748
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Mars/mars_wet.glb",
+      "local_name": "nyt_insight__model___Mars_mars_wet.glb",
+      "size": 1694028
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/fb/models/_Lander/ground.glb",
+      "local_name": "nyt_insight__model___Lander_ground.glb",
+      "size": 3265076
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/Mars_desktopCover_1600.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_Mars_desktopCover_1600.jpg",
+      "size": 90551
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/mariner4.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_mariner4.jpg",
+      "size": 143189
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/Mars_mobileCover_AR_480.png",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_Mars_mobileCover_AR_480.png",
+      "size": 326528
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/thumb-curiosity.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_thumb-curiosity.jpg",
+      "size": 68872
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/thumb-phoenix.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_thumb-phoenix.jpg",
+      "size": 85814
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/thumb-opportunity.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_thumb-opportunity.jpg",
+      "size": 77271
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/viking1.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_viking1.jpg",
+      "size": 190397
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/thumb-spirit-2.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_thumb-spirit-2.jpg",
+      "size": 56917
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/thumb-insight.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_thumb-insight.jpg",
+      "size": 73060
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/thumb-viking1.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_thumb-viking1.jpg",
+      "size": 70228
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/thumb-sojourner.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_thumb-sojourner.jpg",
+      "size": 69037
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/thumb-viking2.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_thumb-viking2.jpg",
+      "size": 57726
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/phobos.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_phobos.jpg",
+      "size": 45612
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/layeredrock.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_layeredrock.jpg",
+      "size": 150607
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/PIA22742-cubesat.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_PIA22742-cubesat.jpg",
+      "size": 37851
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/img/bowie-.jpg",
+      "local_name": "nyt_insight__texture__img_bowie-.jpg",
+      "size": 97774
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/marco.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_marco.jpg",
+      "size": 155179
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/launched.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_launched.jpg",
+      "size": 28524
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/02/06/sports/olympics/05-NYT-AR-oly-ar-promo-container/05-NYT-AR-oly-ar-promo-container-master315-v4.jpg",
+      "local_name": "nyt_insight__texture__05-NYT-AR-oly-ar-promo-container_05-NYT-AR-oly-ar-promo-container-master315-v4.jpg",
+      "size": 6927
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/img/honor-box-thumb.jpg",
+      "local_name": "nyt_insight__texture__img_honor-box-thumb.jpg",
+      "size": 17253
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/img/faq-new-wireframe-thumb.png",
+      "local_name": "nyt_insight__texture__img_faq-new-wireframe-thumb.png",
+      "size": 33632
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/assets/ui/dn_arrow.png",
+      "local_name": "nyt_insight__texture__ui_dn_arrow.png",
+      "size": 300
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/lander-720.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_lander-720.jpg",
+      "size": 278802
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-ipad-144x144.png",
+      "local_name": "nyt_insight__texture__icons_ios-ipad-144x144.png",
+      "size": 3148
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-iphone-114x144.png",
+      "local_name": "nyt_insight__texture__icons_ios-iphone-114x144.png",
+      "size": 2440
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png",
+      "local_name": "nyt_insight__texture__icons_ios-default-homescreen-57x57.png",
+      "size": 1184
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/05/01/science/exploring-mars-ar-3d-ul-1525117240747/exploring-mars-ar-3d-ul-1525117240747-videoSixteenByNineJumbo1600.jpg?year=2018&amp;h=900&amp;w=1600&amp;s=2fa2e32dafb16fc176d53c96e94b2c61653d871f26e4c5f85ee56554f4fb207b&amp;k=ZQJBKqZ0VN&amp;tw=1",
+      "local_name": "nyt_insight__texture__exploring-mars-ar-3d-ul-1525117240747_exploring-mars-ar-3d-ul-1525117240747-videoSixteenByNineJumbo1600.jpg",
+      "size": 117781
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/05/01/science/exploring-mars-ar-3d-ul-1525117240747/exploring-mars-ar-3d-ul-1525117240747-facebookJumbo.jpg?year=2018&amp;h=550&amp;w=1050&amp;s=b8844d0ed3d7fe29c1e34e3b2e83e2d98453c8b7e4339c7f2e22a4d19983b60d&amp;k=ZQJBKqZ0VN",
+      "local_name": "nyt_insight__texture__exploring-mars-ar-3d-ul-1525117240747_exploring-mars-ar-3d-ul-1525117240747-facebookJumbo.jpg",
+      "size": 53133
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/05/01/science/exploring-mars-ar-3d-ul-1525117240747/exploring-mars-ar-3d-ul-1525117240747-videoSixteenByNineJumbo1600.jpg",
+      "local_name": "nyt_insight__texture__exploring-mars-ar-3d-ul-1525117240747_exploring-mars-ar-3d-ul-1525117240747-videoSixteenByNineJumbo1600.jpg",
+      "size": 151424
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "local_name": "nyt_insight__texture__icons_t_logo_291_black.png",
+      "size": 9011
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/icon-alert-12x12-a81817.png",
+      "local_name": "nyt_insight__texture__icons_icon-alert-12x12-a81817.png",
+      "size": 1080
+    },
+    {
+      "asset_url": "https://int.nyt.com/data/videotape/finished/2018/03/bowie/ashes_latest-900w.jpg",
+      "local_name": "nyt_insight__texture__bowie_ashes_latest-900w.jpg",
+      "size": 65028
+    },
+    {
+      "asset_url": "https://int.nyt.com/data/videotape/finished/2018/03/bowie/ashes_latest-vert-640w.jpg",
+      "local_name": "nyt_insight__texture__bowie_ashes_latest-vert-640w.jpg",
+      "size": 68746
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/lander-300.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_lander-300.jpg",
+      "size": 60725
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/lander-450.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_lander-450.jpg",
+      "size": 119587
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/04/16/ar-mars/ae4ff39e442c991137ff32aa96a8e4d0634145af/lander-600.jpg",
+      "local_name": "nyt_insight__texture__ae4ff39e442c991137ff32aa96a8e4d0634145af_lander-600.jpg",
+      "size": 193720
+    }
+  ],
+  "failed": [
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/mars.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/starfield_milkyway.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/inactivepins.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/insight.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/curiosity.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/phoenix.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/opportunity.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/spirit.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/pathfinder.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/viking2.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/viking1.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Lander/lander.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Lander/ground.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Lander/heatprobe.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Lander/rise.glb"
+    },
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/05/01/science/_Mars/mars_wet.glb"
+    },
+    {
+      "asset_url": "https://static01.nyt.com/video/static-timesvideo/img/video-default-16by9-1050x591.png"
+    }
+  ]
+}

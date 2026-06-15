@@ -1,0 +1,59 @@
+{
+  "body": [
+    {
+      "type": "imr-webgl",
+      "value": {
+        "pixel-height": "15000",
+        "markers": [
+          {
+            "text": "Batshuayi",
+            "type": "regular",
+            "id": "batshuayi-marker"
+          }
+        ],
+        "slides": [
+          {
+            "percentage": "0.05",
+            "id": "slide-one-from-doc",
+            "text": "AL RAYYAN, Qatar — Belgium, the second-ranked team in the world and a tournament favorite, eked out a win over Canada in its opening match of the World Cup on Wednesday. The young, plucky Canadian team was faster and fresher, but in the end it hardly mattered: Michy Batshuayi’s 44th-minute goal proved decisive."
+          },
+          {
+            "percentage": "0.12",
+            "id": "slide-two-from-doc",
+            "text": "It started from Belgium’s back line. Toby Alderweireld had possession, but there were no midfield options — Canada’s attackers had dropped in, while its back line pushed forward — cutting off the Belgian midfield."
+          },
+          {
+            "percentage": "0.20",
+            "id": "slide-three-from-doc",
+            "text": "Alderweireld looked up, lobbed a perfectly weighted ball over the top and bypassed the entire Canadian team."
+          },
+          {
+            "percentage": "0.25",
+            "id": "slide-four-from-doc",
+            "text": "Batshuayi held his run, careful to stay onside, moving down the center of the field to meet the ball in flight."
+          },
+          {
+            "percentage": "0.42",
+            "id": "slide-five-from-doc",
+            "text": "Canada’s defenders raced to recover, but Batshuayi was one step ahead."
+          },
+          {
+            "percentage": "0.6",
+            "id": "slide-six-from-doc",
+            "text": "Batshuayi anticipated the flight of the ball, letting it bounce once before striking a half-volley into the net."
+          },
+          {
+            "percentage": "0.8",
+            "id": "slide-seven-from-doc",
+            "text": "Belgium earned 3 points and now stands atop Group F, after Croatia and Morocco played to a scoreless draw on Wednesday."
+          }
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "id": "1LjWwge18lV8KweJuLEtlku2VE9q4gVtP8N9N2uSQ420",
+    "title": "2022-11-23-belgium-canada-embed",
+    "revisionId": "AAbJ89KkoaYkDfSFRrhJQSNLMUepdN3VQLusK6jduUGl78p33p4cfHAEtJjZlcTaExz94ianpQ3zs83A7UK_Fw"
+  }
+}

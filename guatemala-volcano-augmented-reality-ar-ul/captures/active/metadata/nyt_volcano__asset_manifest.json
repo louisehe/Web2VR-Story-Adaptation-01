@@ -1,0 +1,167 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2018/06/19/world/americas/guatemala-volcano-augmented-reality-ar-ul.html",
+  "title": "A Volcano Turns a Town Into a Cemetery - The New York Times",
+  "timestamp": "2026-06-15T09:06:43.393Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/assets/fb/models/car.glb",
+      "local_name": "nyt_volcano__model__models_car.glb",
+      "size": 12333380
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/GUAT1_mobile.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_GUAT1_mobile.jpg",
+      "size": 119194
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/GUAT1.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_GUAT1.jpg",
+      "size": 82337
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/03/22/arts/design/bowie-costumes-ar-3d-ul-1521581553549/bowie-costumes-ar-3d-ul-1521581553549-videoLarge-v2.jpg",
+      "local_name": "nyt_volcano__texture__bowie-costumes-ar-3d-ul-1521581553549_bowie-costumes-ar-3d-ul-1521581553549-videoLarge-v2.jpg",
+      "size": 96270
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/GUAT1_ar2.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_GUAT1_ar2.jpg",
+      "size": 65469
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/GUAT4.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_GUAT4.jpg",
+      "size": 864635
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/GUAT3.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_GUAT3.jpg",
+      "size": 674071
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/GUAT3crop.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_GUAT3crop.jpg",
+      "size": 109968
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/GUAT4crop.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_GUAT4crop.jpg",
+      "size": 157341
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/02/06/sports/olympics/05-NYT-AR-oly-ar-promo-container/05-NYT-AR-oly-ar-promo-container-master315-v4.jpg",
+      "local_name": "nyt_volcano__texture__05-NYT-AR-oly-ar-promo-container_05-NYT-AR-oly-ar-promo-container-master315-v4.jpg",
+      "size": 6927
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/02/01/technology/02-NYT-AR-spt-ar-promo-container/nyt-ar-promo-videoLarge.jpg",
+      "local_name": "nyt_volcano__texture__02-NYT-AR-spt-ar-promo-container_nyt-ar-promo-videoLarge.jpg",
+      "size": 51360
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/02/02/sports/olympics/nyt-ar-augmented-reality-guide-1517541633448/nyt-ar-augmented-reality-guide-1517541633448-mediumThreeByTwo440.png",
+      "local_name": "nyt_volcano__texture__nyt-ar-augmented-reality-guide-1517541633448_nyt-ar-augmented-reality-guide-1517541633448-mediumThreeByTwo440.png",
+      "size": 100095
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/assets/ui/dn_arrow.png",
+      "local_name": "nyt_volcano__texture__ui_dn_arrow.png",
+      "size": 300
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala-Artboard_1.png",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala-Artboard_1.png",
+      "size": 4156
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala_after-Artboard_3.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala_after-Artboard_3.jpg",
+      "size": 168895
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala_before-Artboard_3.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala_before-Artboard_3.jpg",
+      "size": 247206
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-ipad-144x144.png",
+      "local_name": "nyt_volcano__texture__icons_ios-ipad-144x144.png",
+      "size": 3148
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-iphone-114x144.png",
+      "local_name": "nyt_volcano__texture__icons_ios-iphone-114x144.png",
+      "size": 2440
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png",
+      "local_name": "nyt_volcano__texture__icons_ios-default-homescreen-57x57.png",
+      "size": 1184
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/06/22/world/americas/guatemala-volcano-augmented-reality-ar-ul-1529431452873/guatemala-volcano-augmented-reality-ar-ul-1529431452873-videoSixteenByNineJumbo1600.png?year=2018&amp;h=900&amp;w=1600&amp;s=d19b3afb48d3484de70336abeec55b6925b247af2c1571a2cbe02860fadf11fb&amp;k=ZQJBKqZ0VN&amp;tw=1",
+      "local_name": "nyt_volcano__texture__guatemala-volcano-augmented-reality-ar-ul-1529431452873_guatemala-volcano-augmented-reality-ar-ul-1529431452873-videoSixteenByNineJumbo1600.png",
+      "size": 1136215
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/06/22/world/americas/guatemala-volcano-augmented-reality-ar-ul-1529431452873/guatemala-volcano-augmented-reality-ar-ul-1529431452873-facebookJumbo.png?year=2018&amp;h=549&amp;w=1050&amp;s=64c919c991a8c39c63268e7d64c3e6eada7b9268e59a0b1d6aa5e3212ac9d19b&amp;k=ZQJBKqZ0VN",
+      "local_name": "nyt_volcano__texture__guatemala-volcano-augmented-reality-ar-ul-1529431452873_guatemala-volcano-augmented-reality-ar-ul-1529431452873-facebookJumbo.png",
+      "size": 541107
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/06/22/world/americas/guatemala-volcano-augmented-reality-ar-ul-1529431452873/guatemala-volcano-augmented-reality-ar-ul-1529431452873-videoSixteenByNineJumbo1600.png",
+      "local_name": "nyt_volcano__texture__guatemala-volcano-augmented-reality-ar-ul-1529431452873_guatemala-volcano-augmented-reality-ar-ul-1529431452873-videoSixteenByNineJumbo1600.png",
+      "size": 1249394
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2018/06/22/world/americas/guatemala-volcano-augmented-reality-ar-ul-1529431452873/guatemala-volcano-augmented-reality-ar-ul-1529431452873-superJumbo-v10.png",
+      "local_name": "nyt_volcano__texture__guatemala-volcano-augmented-reality-ar-ul-1529431452873_guatemala-volcano-augmented-reality-ar-ul-1529431452873-superJumbo-v10.png",
+      "size": 1348689
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "local_name": "nyt_volcano__texture__icons_t_logo_291_black.png",
+      "size": 9011
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/icon-alert-12x12-a81817.png",
+      "local_name": "nyt_volcano__texture__icons_icon-alert-12x12-a81817.png",
+      "size": 1080
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala_before-Artboard_1.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala_before-Artboard_1.jpg",
+      "size": 400732
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala_before-Artboard_5.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala_before-Artboard_5.jpg",
+      "size": 168793
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala_before-Artboard_12.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala_before-Artboard_12.jpg",
+      "size": 126345
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala_after-Artboard_1.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala_after-Artboard_1.jpg",
+      "size": 279383
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala_after-Artboard_5.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala_after-Artboard_5.jpg",
+      "size": 119531
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2018/06/13/guatemala-ar/b468c3d255ce49c951edfd57cfe78ff268920722/guatemala_after-Artboard_12.jpg",
+      "local_name": "nyt_volcano__texture__b468c3d255ce49c951edfd57cfe78ff268920722_guatemala_after-Artboard_12.jpg",
+      "size": 89420
+    }
+  ],
+  "failed": [
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2018/06/19/world/americas/car.glb"
+    }
+  ]
+}

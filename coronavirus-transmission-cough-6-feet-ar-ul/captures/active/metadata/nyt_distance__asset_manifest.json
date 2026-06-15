@@ -1,0 +1,163 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2020/04/14/science/coronavirus-transmission-cough-6-feet-ar-ul.html",
+  "title": "This 3-D Simulation Shows Why Social Distancing Is So Important - The New York Times",
+  "timestamp": "2026-06-15T07:29:14.606Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/03/20/covid-19-safe-zone/assets/models/transmission-200414-01.glb",
+      "local_name": "nyt_distance__model__models_transmission-200414-01.glb",
+      "size": 2491060
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/02/17/us/eileen-gu-halfpipe-ski-promo-1645156714167/eileen-gu-halfpipe-ski-promo-1645156714167-thumbLarge-v3.jpg?quality=75&auto=webp&disable=upscale",
+      "local_name": "nyt_distance__texture__eileen-gu-halfpipe-ski-promo-1645156714167_eileen-gu-halfpipe-ski-promo-1645156714167-thumbLarge-v3.jpg",
+      "size": 6212
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/10/multimedia/10FD-FOUR-SEASONS-PIZZA-INTERVIEW-Soup-zbcj/10FD-FOUR-SEASONS-PIZZA-INTERVIEW-Soup-zbcj-square640.jpg?quality=75&auto=webp&disable=upscale",
+      "local_name": "nyt_distance__texture__10FD-FOUR-SEASONS-PIZZA-INTERVIEW-Soup-zbcj_10FD-FOUR-SEASONS-PIZZA-INTERVIEW-Soup-zbcj-square640.jpg",
+      "size": 95217
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/10/10SCI-WALKING-LEFT-02-tjzp-cover/10SCI-WALKING-LEFT-02-tjzp-cover-square640-v2.jpg?quality=75&auto=webp&disable=upscale",
+      "local_name": "nyt_distance__texture__10SCI-WALKING-LEFT-02-tjzp-cover_10SCI-WALKING-LEFT-02-tjzp-cover-square640-v2.jpg",
+      "size": 24061
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/12/multimedia/12xp-remains-zbjq/12xp-remains-zbjq-square640.jpg?quality=75&auto=webp&disable=upscale",
+      "local_name": "nyt_distance__texture__12xp-remains-zbjq_12xp-remains-zbjq-square640.jpg",
+      "size": 86127
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2021/10/19/us/dixie-fire-storm-3D-promo-1634675505865/dixie-fire-storm-3D-promo-1634675505865-thumbLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "local_name": "nyt_distance__texture__dixie-fire-storm-3D-promo-1634675505865_dixie-fire-storm-3D-promo-1634675505865-thumbLarge.jpg",
+      "size": 4207
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/11/multimedia/11Hale-clvm/11Hale-clvm-square640.jpg?quality=75&auto=webp&disable=upscale",
+      "local_name": "nyt_distance__texture__11Hale-clvm_11Hale-clvm-square640.jpg",
+      "size": 68167
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/12/multimedia/MC-Easy-Buttermilk-Peach-Cobbler-BT-vwcz/MC-Easy-Buttermilk-Peach-Cobbler-BT-vwcz-square640.jpg?quality=75&auto=webp&disable=upscale",
+      "local_name": "nyt_distance__texture__MC-Easy-Buttermilk-Peach-Cobbler-BT-vwcz_MC-Easy-Buttermilk-Peach-Cobbler-BT-vwcz-square640.jpg",
+      "size": 63061
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/03/20/covid-19-safe-zone/assets/images/cover-8-2000.png",
+      "local_name": "nyt_distance__texture__images_cover-8-2000.png",
+      "size": 284322
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/03/20/covid-19-safe-zone/97227895b097a7cc171f8bcda85bc85223ed10f9/qr-tag-apr14.png",
+      "local_name": "nyt_distance__texture__97227895b097a7cc171f8bcda85bc85223ed10f9_qr-tag-apr14.png",
+      "size": 57050
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/11/opinion/00blanche-editorial/00blanche-editorial-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__00blanche-editorial_00blanche-editorial-square640.jpg",
+      "size": 15226
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/21/magazine/21mag-interview-rogen-02/21mag-interview-rogen-02-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__21mag-interview-rogen-02_21mag-interview-rogen-02-square640.jpg",
+      "size": 13850
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/14/fashion/MINI-Riegelhaupt-Greenberg-02/MINI-Riegelhaupt-Greenberg-02-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__MINI-Riegelhaupt-Greenberg-02_MINI-Riegelhaupt-Greenberg-02-square640.jpg",
+      "size": 25921
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/14/opinion/14meyer/14meyer-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__14meyer_14meyer-square640.jpg",
+      "size": 38048
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/14/us/14nat-skydiving-crash1/14nat-skydiving-crash1-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__14nat-skydiving-crash1_14nat-skydiving-crash1-square640.jpg",
+      "size": 18108
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/14/multimedia/14met-red-lobster-03-hptb/14met-red-lobster-03-hptb-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__14met-red-lobster-03-hptb_14met-red-lobster-03-hptb-square640.jpg",
+      "size": 27380
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2023/01/17/multimedia/00hfothailand-princess2-qplt-copy/00hfothailand-princess2-qplt-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__00hfothailand-princess2-qplt-copy_00hfothailand-princess2-qplt-square640.jpg",
+      "size": 29181
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/12/multimedia/00biz-spacex-windfall-02-bcfm/00biz-spacex-windfall-02-bcfm-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__00biz-spacex-windfall-02-bcfm_00biz-spacex-windfall-02-bcfm-square640.jpg",
+      "size": 25104
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/11/multimedia/11met-knicks-mayhem-01-zvpq/11met-knicks-mayhem-01-zvpq-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__11met-knicks-mayhem-01-zvpq_11met-knicks-mayhem-01-zvpq-square640.jpg",
+      "size": 28704
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/14/opinion/14silcoff-still/13silcoff-still-square640.jpg?quality=75&auto=webp&disable=upscale&width=350",
+      "local_name": "nyt_distance__texture__14silcoff-still_13silcoff-still-square640.jpg",
+      "size": 19072
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/04/13/science/cough-image-still-promo/cough-image-still-promo-videoSixteenByNineJumbo1600-v2.jpg?year=2020&amp;h=899&amp;w=1600&amp;s=a105da308b6bab0e3181c6eea5a703a561b20620e05446177e10b7003568a836&amp;k=ZQJBKqZ0VN&amp;tw=1",
+      "local_name": "nyt_distance__texture__cough-image-still-promo_cough-image-still-promo-videoSixteenByNineJumbo1600-v2.jpg",
+      "size": 73606
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/04/13/science/cough-image-still-promo/cough-image-still-promo-facebookJumbo-v2.jpg?year=2020&amp;h=550&amp;w=1050&amp;s=1ee812291e2c1f5bc0557e110d76b81e56da086b1b1a3c7422a9c028a15a4db6&amp;k=ZQJBKqZ0VN",
+      "local_name": "nyt_distance__texture__cough-image-still-promo_cough-image-still-promo-facebookJumbo-v2.jpg",
+      "size": 31830
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/04/13/science/cough-image-still-promo/cough-image-still-promo-videoSixteenByNineJumbo1600-v2.jpg",
+      "local_name": "nyt_distance__texture__cough-image-still-promo_cough-image-still-promo-videoSixteenByNineJumbo1600-v2.jpg",
+      "size": 93140
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/04/13/science/cough-image-still-promo/cough-image-still-promo-superJumbo-v2.jpg",
+      "local_name": "nyt_distance__texture__cough-image-still-promo_cough-image-still-promo-superJumbo-v2.jpg",
+      "size": 120221
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/04/13/science/cough-image-still-promo/cough-image-still-promo-mediumSquareAt3X.jpg",
+      "local_name": "nyt_distance__texture__cough-image-still-promo_cough-image-still-promo-mediumSquareAt3X.jpg",
+      "size": 108841
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "local_name": "nyt_distance__texture__icons_t_logo_291_black.png",
+      "size": 9011
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2022/02/17/us/eileen-gu-halfpipe-ski-promo-1645156714167/eileen-gu-halfpipe-ski-promo-1645156714167-thumbLarge-v3.jpg?quality=75&amp;auto=webp&amp;disable=upscale",
+      "local_name": "nyt_distance__texture__eileen-gu-halfpipe-ski-promo-1645156714167_eileen-gu-halfpipe-ski-promo-1645156714167-thumbLarge-v3.jpg",
+      "size": 6212
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2021/10/19/us/dixie-fire-storm-3D-promo-1634675505865/dixie-fire-storm-3D-promo-1634675505865-thumbLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale",
+      "local_name": "nyt_distance__texture__dixie-fire-storm-3D-promo-1634675505865_dixie-fire-storm-3D-promo-1634675505865-thumbLarge.jpg",
+      "size": 4207
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2026/06/12/multimedia/12xp-remains-zbjq/12xp-remains-zbjq-square640.jpg?quality=75&amp;auto=webp&amp;disable=upscale",
+      "local_name": "nyt_distance__texture__12xp-remains-zbjq_12xp-remains-zbjq-square640.jpg",
+      "size": 86127
+    }
+  ],
+  "failed": [
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2020/04/14/science/models/transmission-200414-01.glb"
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/03/20/covid-19-safe-zone/assets/images/cover-8-{{size}}.png"
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/03/20/covid-19-safe-zone/assets/images/cover-8-{{size}}_x2.png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa-weston-mckennie-england-webxr",
+  "title": "Weston McKennie Is Going to Want This One Back",
+  "byline": "By Chloé Desaulles, Alexandre Devaux, Malika Khurana, Eleanor Lutz, Allison McCann, Mark McKeague and Bedel Saget — Nov. 25, 2022",
+  "sourceUrl": "https://www.nytimes.com/interactive/2022/11/25/sports/world-cup/usa-weston-mckennie-england.html",
+  "assetRoot": "/usa-weston-mckennie-england/captures/active",
+  "pipeline": "projection-camera + photo-frame scrub (original NYT system reused)",
+  "models": [
+    "models/nyt_mckennie__model__assets_world-cup-2022-usa-england-6.glb",
+    "models/nyt_mckennie__model__assets_Field_Annots3D.glb"
+  ],
+  "beatCount": 10,
+  "frameCount": 41,
+  "frameRange": [
+    0,
+    120
+  ],
+  "timelineLength": 19,
+  "playerLabels": [
+    {
+      "name": "McKennie",
+      "mesh": "player_mesh_shooter"
+    }
+  ],
+  "generatedAt": "2026-06-15T04:11:20.917Z"
+}

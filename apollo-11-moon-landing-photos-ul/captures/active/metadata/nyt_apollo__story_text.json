@@ -1,0 +1,483 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2019/07/18/science/apollo-11-moon-landing-photos-ul.html",
+  "title": "The Apollo 11 Moon Landing in Augmented Reality - The New York Times",
+  "headline": "Apollo 11\nAs They Shot It",
+  "beats": [
+    {
+      "tag": "h1",
+      "text": "Apollo 11 As They Shot It"
+    },
+    {
+      "tag": "h2",
+      "text": "Tranquility Base"
+    },
+    {
+      "tag": "p",
+      "text": "NEIL ARMSTRONG Houston, Tranquility Base here. The Eagle has landed."
+    },
+    {
+      "tag": "p",
+      "text": "MISSION CONTROL, HOUSTON Roger, Tranquility. We copy you on the ground. You got a bunch of guys about to turn blue. We’re breathing again. Thanks a lot."
+    },
+    {
+      "tag": "p",
+      "text": "..."
+    },
+    {
+      "tag": "p",
+      "text": "BUZZ ALDRIN Very smooth touchdown."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG The area out the left-hand window is a relatively level plain cratered with a fairly large number of craters."
+    },
+    {
+      "tag": "p",
+      "text": "MICHAEL COLLINS, IN ORBIT Tranquility Base, it sure sounded great from up here. You guys did a fantastic job."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Thank you. Just keep that orbiting base ready for us up there now."
+    },
+    {
+      "tag": "h2",
+      "text": "Walking on the Moon"
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Houston, this is Tranquility Base. We are beginning our E.V.A. [moonwalk] prep."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Tranquility Base, this is Houston, Roger. Copy."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG You’ll find that the area around the ladder is in a complete dark shadow, so we’re going to have some problem with TV, but I’m sure you’ll get a picture from the lighted horizon."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN O.K., about ready to go down and get some moon rock?"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Neil, we can see you coming down the ladder now."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG I’m at the foot of the ladder."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG The surface appears to be very, very fine grained, as you get close to it. It’s almost like a powder."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG O.K., I’m going to step off the LM now."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG That’s one small step for man, one giant leap for mankind."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG O.K., Buzz, we ready to bring down the camera?"
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN I’m all ready. I think it’s been all squared away and in good shape."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG I’ll step out and take some of my first pictures here."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN That looks beautiful from here, Neil."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG It has a stark beauty all its own. It’s like much of the high desert of the United States. It’s different, but it’s very pretty out here."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Are you ready for me to come out?"
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Yeah. Just stand by a second."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG All set."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG O.K., you’re right at the edge of the porch."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN O.K., now I want to back up and partially close the hatch. Making sure not to lock it on my way out."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG A particularly good thought."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN O.K., I’m on the top step."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG You’ve got three more steps and then a long one."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG There you go."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN That’s a good step."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Yeah. About a three-footer."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Beautiful view!"
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Isn’t that something! Magnificent sight out here."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Magnificent desolation."
+    },
+    {
+      "tag": "p",
+      "text": "COLLINS, IN ORBIT Houston, Columbia on the high gain. Over."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Columbia, this is Houston. Reading you loud and clear. Over."
+    },
+    {
+      "tag": "p",
+      "text": "COLLINS Yeah. Reading you loud and clear. How’s it going?"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Roger. The E.V.A. is progressing beautifully. I believe they are setting up the flag now."
+    },
+    {
+      "tag": "p",
+      "text": "COLLINS Great!"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON They’ve got the flag up now and you can see the stars and stripes on the lunar surface."
+    },
+    {
+      "tag": "p",
+      "text": "COLLINS Beautiful. Just beautiful."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN The blue color of my boots has completely disappeared now into this — still don’t know exactly what color to describe this other than grayish-cocoa color."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN It seems to be covering most of the lighter part of the boot [garbled] very fine particles."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Buzz, this is Houston. You’re cutting out on the end of your transmissions. Can you speak a little more closely into your microphone? Over."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Roger. I'll try that."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Beautiful."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Well, I had that one inside my mouth that time."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON It sounded a little wet."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN As I look around the area, the contrast, in general, is — comes about completely by virtue of the shadows."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN And right in this area, there are two craters."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN The one that’s right in front of me now as I look off in about the 11 o’clock position from the spacecraft, about 30 to 35 feet across."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN There’s several rocks to boulders, six to eight inches across [garbled] sizes."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN How’s the bulk sample coming, Neil?"
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Bulk sample is just being sealed."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Want to get some particular photographs of the bulk sample area, Neil?"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON O.K."
+    },
+    {
+      "tag": "h2",
+      "text": "Short on Time"
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Houston, how does our timeline appear to be going?"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Roger. It looks like you’re about a half-hour slow on it. We’re working on consumables. Over."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN All right."
+    },
+    {
+      "tag": "h2",
+      "text": "Trying to Photograph the Earth"
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Just too big an angle, Neil."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Yeah. I think you are right."
+    },
+    {
+      "tag": "h2",
+      "text": "Science Instruments"
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Neil, if you’ll take the camera I’ll get to work on the SEQ [scientific equipment] bay."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG O.K."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Have you got us a good area picked out?"
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Well, I think right out on that rise out there is probably as good as any."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Watch it. The edge of that crater is really soft."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN O.K., how about I put the L.R.-cubed [laser reflector] right about here?"
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG All right."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Houston. I have the seismic experiment flipped over now, and I’m aligning it with the sun."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG There you go. Good work, good show."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Hey, whoa, stop, stop! Back up."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Houston, as I was facing the P.S.E., the right-hand solar array deployed automatically."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Buzz, this is Houston. I understand that you did successfully deploy both solar arrays. Over."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Roger. That’s affirmative."
+    },
+    {
+      "tag": "h2",
+      "text": "Little West Crater"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Buzz, this is Houston. You’ve got about 10 minutes left now prior to commencing your E.V.A. termination activities. Over."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Roger. I understand."
+    },
+    {
+      "tag": "h2",
+      "text": "Final Tasks"
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN I hope you’re watching how hard I have to hit this into the ground, to the tune of about five inches, Houston."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Roger."
+    },
+    {
+      "tag": "h2",
+      "text": "Ending the Moonwalk"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Buzz, this is Houston. You have approximately three minutes until you must commence your E.V.A. termination activities. Over."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Roger. Understand."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN O.K., adios, amigo."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Anything more before I head on up, Bruce?"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Negative. Head on up the ladder, Buzz."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN How are you coming, Neil?"
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Get the film off of the —"
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG I will."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN O.K., I’m heading on in."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Neil, this is Houston. Did you get the Hasselblad magazine?"
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Yes, I did. And we got about, I’d say, 20 pounds of carefully selected — if not documented — samples."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Houston. Roger. Well done. Out."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN Roger, Houston. Tranquility Base. We’re in the process of using up what film we have. We’ve probably got another half an hour’s worth of picture taking."
+    },
+    {
+      "tag": "h2",
+      "text": "Eating and Resting"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Tranquility Base. Tranquility Base. This is Houston. Radio check. Over."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Roger. We just finished up. We’re just finishing up our eat period. Be ready to go back into prep for depress."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON That’s a real great day, guys. I really enjoyed it."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Thank you. You couldn’t have enjoyed it as much as we did."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Sure wish you’d hurry up and get that trash out of there, though."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Yes. We’re just about to do it."
+    },
+    {
+      "tag": "h2",
+      "text": "Throwing Away the Cameras"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON We observed your equipment jettison on the TV, and the passive seismic experiment recorded shocks when each PLSS [backpack] hit the surface. Over."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG You can’t get away with anything anymore, can you?"
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON No, indeed."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON We’d like to say from all of us down here in Houston and really from all of us in all the countries in the entire world, we think that you’ve done a magnificent job up there today. Over."
+    },
+    {
+      "tag": "p",
+      "text": "ARMSTRONG Thank you very much."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN It’s been a long day."
+    },
+    {
+      "tag": "p",
+      "text": "HOUSTON Yes, indeed. Get some rest there and have at it tomorrow."
+    },
+    {
+      "tag": "p",
+      "text": "ALDRIN O.K., signing off. See you again tomorrow."
+    },
+    {
+      "tag": "p",
+      "text": "View an enhanced version of this article in augmented reality by using the NYTimes app on newer iPhones and iPads. Frame this QR tag using your camera app for a link to this article."
+    },
+    {
+      "tag": "p",
+      "text": "Produced by Jonathan Corum, Mika Gröndahl, Evan Grothjan, Marcelle Hopkins, Jon Huang, Lingdong Huang, Yuliya Parshina-Kottas, Karthik Patanjali and Graham Roberts. Additional production by Paul Fjeld, Destinée-Charisse Royal, Rumsey Taylor, Lian Chang and The Mill. This project combines condensed mission transcripts with selected photographs taken by the Apollo 11 astronauts from July 16-24, 1969. Sources: NASA; Apollo Flight Journal; Apollo Lunar Surface Journal. Photos from NASA’s Johnson Space Center and the Project Apollo Archive."
+    }
+  ]
+}

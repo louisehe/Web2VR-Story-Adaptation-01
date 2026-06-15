@@ -1,0 +1,17 @@
+{
+  "headline": "Chinatown, Resilient and Proud",
+  "subhead": "A virtual walk down Doyers Street",
+  "byline": "By Michael Kimmelman — The New York Times, Dec. 2, 2020",
+  "sourceUrl": "https://www.nytimes.com/interactive/2020/12/02/arts/design/chinatown-virtual-walk-tour.html",
+  "model": "models/doyers_all.glb",
+  "methodology": "The 3-D street was reconstructed by The New York Times from 4,447 photographs using photogrammetry. This WebXR adaptation reuses that captured geometry as seven point-of-interest viewpoints; the camera framing at each point matches the original so only the well-reconstructed front of each view is shown.",
+  "beats": [
+    { "node": "p1", "year": "c. 1900", "fov": 42, "text": "A view of Doyers Street from around 1900. Because their rights and job access were limited, many Chinese immigrants — overwhelmingly men a century ago — turned to jobs traditionally associated with women's work: cooking, sewing and laundry." },
+    { "node": "p2", "year": "1909", "fov": 41, "text": "Chinatown started on a few streets, Doyers among them, in a slum called Five Points. Its population grew in the 1880s with the diaspora of Chinese laborers driven out of the American West." },
+    { "node": "p3", "year": "1974", "fov": 54, "text": "In this photo from the mid-70s, police officers patrol Doyers. During the 1970s and '80s, some Chinatown families moved to what were then considered safer, more suburban neighborhoods in Queens." },
+    { "node": "p4", "year": "1920s", "fov": 51, "text": "The Rescue Society in the 1920s occupied the site of the former Chinese Theater. In 1905, a gang war started there, which helped give Doyers the name Murder Alley." },
+    { "node": "p5", "year": "1976", "fov": 42, "text": "Nom Wah Tea Parlor, which just celebrated its 100th anniversary, for generations was a neighborhood hangout where people picked up their mail, read the newspaper and played cards." },
+    { "node": "p6", "year": "c. 1910s", "fov": 41, "text": "Doyers follows the curve of what originally was a meandering stream. The street is named after a Dutchman who opened a distillery there." },
+    { "node": "p7", "year": "1964", "fov": 41, "text": "Doyers Street in 1964, before the passage of the Immigration and Nationality Act, which abolished quotas on Chinese immigration. Around the corner is Kimlau Square, a gateway to the neighborhood, where a monument commemorates the Chinese in America who died fighting for democracy." }
+  ]
+}

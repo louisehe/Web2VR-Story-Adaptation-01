@@ -1,0 +1,20 @@
+{
+ "headline": "Apollo 11: As They Shot It",
+ "byline": "The New York Times — July 18, 2019",
+ "sourceUrl": "https://www.nytimes.com/interactive/2019/07/18/science/apollo-11-moon-landing-photos-ul.html",
+ "model": "models/lander_scene_87.glb",
+ "clipName": "Take 001",
+ "duration": 52.08,
+ "beats": [
+  { "position": 0.085, "caption": "Armstrong: That’s one small step for man, one giant leap for mankind." },
+  { "position": 0.137, "caption": "Armstrong: It has a stark beauty all its own. It’s like much of the high desert of the United States — different, but very pretty out here." },
+  { "position": 0.197, "caption": "Aldrin: Are you ready for me to come out?  Armstrong: Yeah. Just stand by a second." },
+  { "position": 0.285, "caption": "Armstrong: All set. O.K., you’re right at the edge of the porch." },
+  { "position": 0.34, "caption": "Aldrin: O.K., I’m on the top step. (Buzz Aldrin climbs down to join Armstrong on the surface.)" },
+  { "position": 0.46, "caption": "Armstrong: Isn’t that something! Magnificent sight out here.  Aldrin: Magnificent desolation." },
+  { "position": 0.518, "caption": "Houston: They’ve got the flag up now, and you can see the stars and stripes on the lunar surface." },
+  { "position": 0.66, "caption": "Aldrin: As I look around the area, the contrast, in general, comes about completely by virtue of the shadows." },
+  { "position": 0.735, "caption": "Aldrin: The crater right in front of me, off about the 11 o’clock position, is about 30 to 35 feet across." },
+  { "position": 0.84, "caption": "Aldrin: How’s the bulk sample coming, Neil?  Armstrong: Bulk sample is just being sealed." }
+ ]
+}

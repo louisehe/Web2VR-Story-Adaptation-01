@@ -1,0 +1,167 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2019/07/18/science/apollo-11-moon-landing-photos-ul.html",
+  "title": "The Apollo 11 Moon Landing in Augmented Reality - The New York Times",
+  "timestamp": "2026-06-15T08:14:29.197Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/models/lander_scene_87.glb",
+      "local_name": "nyt_apollo__model__models_lander_scene_87.glb",
+      "size": 9806344
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5449-1050.png",
+      "local_name": "nyt_apollo__texture__images_a37x5449-1050.png",
+      "size": 75549
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/7caf80ed3d0f8338374f5772ac76f6c3b000da57/apollo11-illo-lm.png",
+      "local_name": "nyt_apollo__texture__7caf80ed3d0f8338374f5772ac76f6c3b000da57_apollo11-illo-lm.png",
+      "size": 62493
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5453-1050.png",
+      "local_name": "nyt_apollo__texture__images_a37x5453-1050.png",
+      "size": 70325
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5451-1050.png",
+      "local_name": "nyt_apollo__texture__images_a37x5451-1050.png",
+      "size": 84641
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5450-1050.png",
+      "local_name": "nyt_apollo__texture__images_a37x5450-1050.png",
+      "size": 80838
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5459-1050.png",
+      "local_name": "nyt_apollo__texture__images_a37x5459-1050.png",
+      "size": 84461
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5454-940.png",
+      "local_name": "nyt_apollo__texture__images_a37x5454-940.png",
+      "size": 121743
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5455-940.png",
+      "local_name": "nyt_apollo__texture__images_a37x5455-940.png",
+      "size": 126452
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5457-940.png",
+      "local_name": "nyt_apollo__texture__images_a37x5457-940.png",
+      "size": 140391
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a37x5456-940.png",
+      "local_name": "nyt_apollo__texture__images_a37x5456-940.png",
+      "size": 138607
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5923-940.jpg",
+      "local_name": "nyt_apollo__texture__images_a40x5923-940.jpg",
+      "size": 45513
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5924-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5924-940.png",
+      "size": 348732
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5927-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5927-1050.png",
+      "size": 239608
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5928-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5928-1050.png",
+      "size": 211717
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5929-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5929-1050.png",
+      "size": 934197
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5942-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5942-940.png",
+      "size": 306072
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5943-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5943-940.png",
+      "size": 350584
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5944-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5944-940.png",
+      "size": 344136
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5945-940.jpg",
+      "local_name": "nyt_apollo__texture__images_a40x5945-940.jpg",
+      "size": 122656
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5947-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5947-940.png",
+      "size": 647358
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5946-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5946-940.png",
+      "size": 627865
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5949-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5949-940.png",
+      "size": 489089
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5950-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5950-940.png",
+      "size": 461719
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5955-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5955-1050.png",
+      "size": 65248
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5956-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5956-1050.png",
+      "size": 74649
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5959-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5959-1050.png",
+      "size": 71502
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5958-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5958-1050.png",
+      "size": 72908
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5960-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5960-1050.png",
+      "size": 54886
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5961-1050.png",
+      "local_name": "nyt_apollo__texture__images_a40x5961-1050.png",
+      "size": 44487
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2019/07/20/apollo11-as-they-shot-it/assets/images/a40x5963-940.png",
+      "local_name": "nyt_apollo__texture__images_a40x5963-940.png",
+      "size": 549827
+    }
+  ],
+  "failed": [
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2019/07/18/science/models/lander_scene_87.glb"
+    }
+  ]
+}

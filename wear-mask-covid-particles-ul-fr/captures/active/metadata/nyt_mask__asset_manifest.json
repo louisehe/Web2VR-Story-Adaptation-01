@@ -1,0 +1,167 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2020/11/11/science/wear-mask-covid-particles-ul-fr.html",
+  "title": "Les masques, ça marche. Vraiment. On va vous montrer comment. - The New York Times",
+  "timestamp": "2026-06-15T07:03:38.310Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/models/masks-088.glb",
+      "local_name": "nyt_mask__model__models_masks-088.glb",
+      "size": 9561044
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-3-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-3-1050_x2.jpg",
+      "size": 96813
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-1-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-1-1050_x2.jpg",
+      "size": 96639
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-2-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-2-1050_x2.jpg",
+      "size": 96618
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-6-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-6-1050_x2.jpg",
+      "size": 95910
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-4-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-4-1050_x2.jpg",
+      "size": 96554
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-7-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-7-1050_x2.jpg",
+      "size": 92524
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-5-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-5-1050_x2.jpg",
+      "size": 96405
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-8-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-8-1050_x2.jpg",
+      "size": 94612
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-10-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-10-1050_x2.jpg",
+      "size": 96618
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-9-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-9-1050_x2.jpg",
+      "size": 96157
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-13-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-13-1050_x2.jpg",
+      "size": 103049
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-12-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-12-1050_x2.jpg",
+      "size": 100936
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-14-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-14-1050_x2.jpg",
+      "size": 98990
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-11-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-11-1050_x2.jpg",
+      "size": 96402
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-21-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-21-1050_x2.jpg",
+      "size": 94282
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-22-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-22-1050_x2.jpg",
+      "size": 98043
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-15-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-15-1050_x2.jpg",
+      "size": 94637
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-17-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-17-1050_x2.jpg",
+      "size": 90460
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-16-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-16-1050_x2.jpg",
+      "size": 91826
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-20-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-20-1050_x2.jpg",
+      "size": 92048
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-18-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-18-1050_x2.jpg",
+      "size": 88172
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-19-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-19-1050_x2.jpg",
+      "size": 90378
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-24-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-24-1050_x2.jpg",
+      "size": 103212
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-25-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-25-1050_x2.jpg",
+      "size": 101515
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-23-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-23-1050_x2.jpg",
+      "size": 98561
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-29-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-29-1050_x2.jpg",
+      "size": 96532
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-30-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-30-1050_x2.jpg",
+      "size": 96646
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-27-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-27-1050_x2.jpg",
+      "size": 96724
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-28-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-28-1050_x2.jpg",
+      "size": 96464
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/08/27/masks-explainer/assets/images/mask-26-1050_x2.jpg",
+      "local_name": "nyt_mask__texture__images_mask-26-1050_x2.jpg",
+      "size": 98352
+    }
+  ],
+  "failed": [
+    {
+      "asset_url": "https://www.nytimes.com/interactive/2020/11/11/science/models/masks-088.glb"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Apollo 11: As They Shot It — WebXR</title>
+<link rel="stylesheet" href="./src/styles.css" />
+<script type="importmap">
+{
+  "imports": {
+    "three": "./vendor/three.module.js",
+    "three/addons/": "./vendor/addons/"
+  }
+}
+</script>
+</head>
+<body>
+<div id="overlay">
+  <div id="title-card">
+    <p class="kicker">The New York Times · Science</p>
+    <h1 class="headline"></h1>
+    <p class="byline"></p>
+    <p class="hint">Use Next / Prev to step through the explainer. Enter VR for the immersive version.</p>
+  </div>
+  <div id="caption-panel"><p id="caption-text"></p></div>
+  <div id="nav">
+    <button id="prev-btn">‹ Prev</button>
+    <span id="beat-indicator"></span>
+    <button id="next-btn">Next ›</button>
+  </div>
+  <div id="loading">Loading the 3-D explainer…</div>
+</div>
+<script type="module" src="./src/main.js?v=12"></script>
+</body>
+</html>

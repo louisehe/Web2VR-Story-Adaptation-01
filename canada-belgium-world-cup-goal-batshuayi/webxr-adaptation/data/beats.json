@@ -1,0 +1,60 @@
+{
+  "headline": "Belgium's Long-Ball Goal Sinks a Determined Canada",
+  "kicker": "Above The Action",
+  "byline": "By Weiyi Cai, Chloé Desaulles, Alexandre Devaux, Or Fleisher, Malika Khurana, Eleanor Lutz, Allison McCann, Mark McKeague, Scott Reinhard and Bedel Saget — Nov. 23, 2022",
+  "sourceUrl": "https://www.nytimes.com/interactive/2022/11/23/sports/world-cup/canada-belgium-world-cup-goal-batshuayi.html",
+  "beats": [
+    {
+      "id": 0,
+      "time": 1.5,
+      "phase": "photo",
+      "text": "AL RAYYAN, Qatar — Belgium, the second-ranked team in the world and a tournament favorite, eked out a win over Canada in its opening match of the 2022 World Cup. The lone goal came at the end of the first half and started with a long ball from deep in Belgium's own end."
+    },
+    {
+      "id": 1,
+      "time": 3.6,
+      "phase": "photo",
+      "text": "It started from Belgium's back line. Toby Alderweireld had possession, but there were no midfield options — Canada's attackers had dropped in to press."
+    },
+    {
+      "id": 2,
+      "time": 5.0,
+      "phase": "3d",
+      "text": "Alderweireld looked up, lobbed a perfectly weighted ball over the top and bypassed the entire Canadian team."
+    },
+    {
+      "id": 3,
+      "time": 5.9,
+      "phase": "3d",
+      "text": "Batshuayi held his run, careful to stay onside, moving down the center of the field to meet the ball in flight."
+    },
+    {
+      "id": 4,
+      "time": 6.5,
+      "phase": "3d",
+      "text": "Canada's defenders raced to recover, but Batshuayi was one step ahead."
+    },
+    {
+      "id": 5,
+      "time": 7.3,
+      "phase": "3d",
+      "text": "Batshuayi anticipated the flight of the ball, letting it bounce once before striking a half-volley into the net."
+    },
+    {
+      "id": 6,
+      "time": 12.0,
+      "phase": "photo",
+      "text": "Belgium earned 3 points and now stands atop Group F, after Croatia and Morocco played to a scoreless draw on Wednesday."
+    }
+  ],
+  "playerLabels": [
+    { "name": "Alderweireld", "mesh": "player_mesh_belgium_3" },
+    { "name": "Batshuayi", "mesh": "player_mesh_belgium_corrected" }
+  ],
+  "teamColors": {
+    "belgium": "#c91f37",
+    "canada": "#f2f2f0",
+    "goalkeeper": "#ffd23f"
+  },
+  "methodology": "The 3-D scene was created using photographs and videos of the venue for reference. The positions of the players were determined from a photograph taken at that moment during the play. The player models were created using a machine-learning model and refined manually using photographs as reference."
+}

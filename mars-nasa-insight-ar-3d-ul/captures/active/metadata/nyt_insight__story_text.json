@@ -1,0 +1,251 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2018/05/01/science/mars-nasa-insight-ar-3d-ul.html",
+  "title": "Augmented Reality: Explore NASA’s InSight Mission on Mars - The New York Times",
+  "headline": "Augmented Reality: Explore NASA’s InSight Mission on Mars",
+  "beats": [
+    {
+      "tag": "h1",
+      "text": "Augmented Reality: Explore NASA’s InSight Mission on Mars"
+    },
+    {
+      "tag": "p",
+      "text": "The InSight spacecraft arrived at Mars in 2018 to listen for marsquakes and study the planet’s structure. By THE NEW YORK TIMES UPDATED Nov. 20, 2018"
+    },
+    {
+      "tag": "p",
+      "text": "Augmented reality is a new approach to digital storytelling that we are exploring. Read about how to use it on your phone or tablet here."
+    },
+    {
+      "tag": "p",
+      "text": "You are viewing a version of this article with immersive features designed for the web and older devices. The full AR experience is available only on newer iPhones, iPads and Android phones using the NYTimes app. Click here for system requirements, or keep scrolling to read on."
+    },
+    {
+      "tag": "h2",
+      "text": "Missions to Mars"
+    },
+    {
+      "tag": "p",
+      "text": "In July 1965, the Mariner 4 spacecraft flew past Mars and took the first close-up image of another planet, a series of numbers that impatient engineers colored by hand."
+    },
+    {
+      "tag": "span",
+      "text": "Ticker tape image of Mars, colored by NASA engineers."
+    },
+    {
+      "tag": "p",
+      "text": "Since then, Earth has sent 18 spacecraft to try to land on Mars or its larger moon, Phobos. Five never made it, four crashed into Mars and two failed after landing. Only seven touched down softly and survived to take their own photographs."
+    },
+    {
+      "tag": "span",
+      "text": "The first photograph taken on the surface of Mars, by Viking 1 on July 20, 1976."
+    },
+    {
+      "tag": "p",
+      "text": "NASA’s InSight spacecraft launched on May 5 and is scheduled to land on Mars on Nov. 26."
+    },
+    {
+      "tag": "p",
+      "text": "If successful, the lander will join two rovers still operating on the surface and a growing fleet of spacecraft studying the planet from Mars orbit."
+    },
+    {
+      "tag": "h2",
+      "text": "Listening for Marsquakes"
+    },
+    {
+      "tag": "p",
+      "text": "After landing, InSight will unfurl its solar panels and use its robotic arm to place two instruments on the Martian surface."
+    },
+    {
+      "tag": "p",
+      "text": "Robotic arm"
+    },
+    {
+      "tag": "p",
+      "text": "Solar panels"
+    },
+    {
+      "tag": "p",
+      "text": "Seismometer"
+    },
+    {
+      "tag": "p",
+      "text": "Heat flow probe"
+    },
+    {
+      "tag": "p",
+      "text": "and protective"
+    },
+    {
+      "tag": "p",
+      "text": "dome"
+    },
+    {
+      "tag": "p",
+      "text": "A seismometer under a protective dome will listen for marsquakes, which have never been confirmed."
+    },
+    {
+      "tag": "p",
+      "text": "InSight’s seismometer can detect vibrations smaller than the diameter of an atom, and should be able to sense meteorite impacts and the tidal swelling of the ground from the gravity of the moon Phobos."
+    },
+    {
+      "tag": "span",
+      "text": "The small moon Phobos exerts a tidal pull on Mars."
+    },
+    {
+      "tag": "p",
+      "text": "A smaller device will try to hammer itself about 16 feet into the Martian soil, to measure heat flow from the interior of the planet."
+    },
+    {
+      "tag": "p",
+      "text": "Mars and Earth share a similar past, and what InSight discovers could help explain the formation of other rocky planets, both within our solar system and orbiting distant stars."
+    },
+    {
+      "tag": "h2",
+      "text": "Wet Mars"
+    },
+    {
+      "tag": "p",
+      "text": "Mars today is dry and dusty, but long ago it had rivers and oceans, and may have been hospitable to life."
+    },
+    {
+      "tag": "p",
+      "text": "Previous missions to Mars have tried to “follow the water” by digging for ice or searching for rocks shaped by water."
+    },
+    {
+      "tag": "span",
+      "text": "Layered rock formed by sediments flowing into a Martian lake."
+    },
+    {
+      "tag": "p",
+      "text": "InSight will complement that search by looking deep inside the planet."
+    },
+    {
+      "tag": "p",
+      "text": "With luck, InSight’s seismic readings might discover evidence of underground aquifers or help explain how gases from the magma filled the early Martian atmosphere."
+    },
+    {
+      "tag": "h2",
+      "text": "Six Months to Mars"
+    },
+    {
+      "tag": "p",
+      "text": "InSight was not alone during its six-month cruise to Mars. Two small CubeSats, each about the size of a briefcase, trailed behind to monitor the spacecraft’s descent onto the planet’s surface."
+    },
+    {
+      "tag": "span",
+      "text": "An engineer tests one of two small CubeSats that will fly behind InSight."
+    },
+    {
+      "tag": "p",
+      "text": "After months of flight, one of the CubeSats returned a test image of Mars in early October."
+    },
+    {
+      "tag": "span",
+      "text": "The first image of Mars taken by a CubeSat."
+    },
+    {
+      "tag": "p",
+      "text": "InSight launched on May 5 from Vandenberg Air Force Base in California. It was the first interplanetary mission to launch from the West Coast."
+    },
+    {
+      "tag": "span",
+      "text": "Lifting off from Vandenberg Air Force Base."
+    },
+    {
+      "tag": "p",
+      "text": "Watch a video preview of InSight’s mission to Mars:"
+    },
+    {
+      "tag": "p",
+      "text": "Produced by Graham Roberts, Jonathan Corum and Marcelle Hopkins. AR experience design and production by Mika Gröndahl, Evan Grothjan, Yuliya Parshina-Kottas, Karthik Patanjali, Miles Peyton. AR and WebGL development by Jon Huang, Ben Wilhelm and Blacki Migliozzi."
+    },
+    {
+      "tag": "p",
+      "text": "Cover image of Mars by the Viking 1 orbiter, from NASA and the United States Geological Survey."
+    },
+    {
+      "tag": "p",
+      "text": "Mars mission map from the USGS Astrogeology Science Center and Arizona State University’s Mars Space Flight Facility."
+    },
+    {
+      "tag": "p",
+      "text": "InSight model by NASA, Jet Propulsion Laboratory and the California Institute of Technology, adapted and simplified for augmented reality by The New York Times."
+    },
+    {
+      "tag": "p",
+      "text": "Early Mars map by European Southern Observatory/Martin Kornmesser."
+    },
+    {
+      "tag": "p",
+      "text": "Sources – NASA, Jet Propulsion Laboratory, California Institute of Technology, NASA's Scientific Visualization Studio and the Maven Science Team."
+    },
+    {
+      "tag": "p",
+      "text": "Sync your calendar with the solar system and sign up for the Science Times newsletter."
+    },
+    {
+      "tag": "h2",
+      "text": "David Bowie in Three Dimensions"
+    },
+    {
+      "tag": "h2",
+      "text": "Four of the Best Olympians, as You’ve Never Seen Them"
+    },
+    {
+      "tag": "h2",
+      "text": "Your Guide to Augmented Reality in The Times"
+    },
+    {
+      "tag": "h2",
+      "text": "Augmented Reality: How We’ll Bring the News Into Your Home"
+    },
+    {
+      "tag": "p",
+      "text": "By GRAHAM ROBERTS, JONATHAN CORUM, MARCELLE HOPKINS, MIKA GRÖNDAHL, EVAN GROTHJAN, YULIYA PARSHINA-KOTTAS, KARTHIK PATANJALI, MILES PEYTON, BLACKI MIGLIOZZI, BENJAMIN WILHELM and JON HUANG"
+    },
+    {
+      "tag": "h2",
+      "text": "More on NYTimes.com"
+    },
+    {
+      "tag": "h2",
+      "text": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran"
+    },
+    {
+      "tag": "p",
+      "text": "In a call to The New York Times, President Trump praised Russia’s and China’s leaders and described Israel’s prime minister as “a very difficult guy.”"
+    },
+    {
+      "tag": "h2",
+      "text": "Oil Prices Tumble and Stocks Surge After Trump Announces Deal With Iran"
+    },
+    {
+      "tag": "p",
+      "text": "Oil prices fell and stocks gained early Monday after Iran and the U.S. reached a deal that may allow more energy and other goods to flow through the Strait of Hormuz."
+    },
+    {
+      "tag": "h2",
+      "text": "For His 80th Birthday, Trump Brought a Cage Match to the White House Lawn"
+    },
+    {
+      "tag": "p",
+      "text": "President Trump sat ringside beside his wife, Melania Trump, for an event that used the trappings of the White House for a U.F.C. brawl."
+    },
+    {
+      "tag": "h2",
+      "text": "Trump’s U.F.C. Event Comes as Backing of Young Men, Once a Strength, Wanes"
+    },
+    {
+      "tag": "p",
+      "text": "Some Republicans saw a political opening in Sunday’s fights at the White House. Democrats said they saw a distraction from more pressing matters."
+    },
+    {
+      "tag": "h2",
+      "text": "Team Curaçao Arrives at the World Cup With Much of the Island in Tow."
+    },
+    {
+      "tag": "p",
+      "text": "Qualifying for the world’s biggest sporting event meant everything for residents of the Caribbean island country."
+    }
+  ]
+}

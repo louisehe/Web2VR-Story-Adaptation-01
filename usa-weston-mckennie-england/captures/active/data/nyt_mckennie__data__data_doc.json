@@ -1,0 +1,79 @@
+{
+  "body": [
+    {
+      "type": "imr-webgl",
+      "value": {
+        "pixel-height": "15000",
+        "markers": [
+          {
+            "text": "McKennie",
+            "type": "regular",
+            "id": "mckennie-3d"
+          },
+          {
+            "text": "Pulisic",
+            "type": "regular",
+            "id": "pulisic-3d"
+          }
+        ],
+        "slides": [
+          {
+            "percentage": "0.05",
+            "id": "usa-play-1",
+            "text": "AL KHOR, Qatar — The Americans held their own against England in their second group game of the World Cup on Friday, drawing 0-0 with one of the world’s best teams. The U.S. created more scoring opportunities, many of which were led by Weston McKennie on the right wing."
+          },
+          {
+            "percentage": "0.1",
+            "id": "usa-play-2",
+            "text": "In the 25th minute, McKennie stood on the far right side of the field, briefly pausing with the ball at his feet while he took stock of his teammates’ positions."
+          },
+          {
+            "percentage": "0.27",
+            "id": "usa-play-3",
+            "text": "He dribbled past two England defenders and then passed to Yunus Musah at the top of the box. (Keep your eye on McKennie’s movement off the ball.)"
+          },
+          {
+            "percentage": "0.4",
+            "id": "usa-play-4",
+            "text": "As Musah dribbled toward the end line, McKennie started to make a run into the box and toward the penalty spot."
+          },
+          {
+            "percentage": "0.5",
+            "id": "usa-play-45",
+            "text": "McKennie lifted his arm to signal that he’d been left unmarked."
+          },
+          {
+            "percentage": "0.56",
+            "id": "usa-play-5",
+            "text": "Meanwhile, the Americans patiently worked the ball back around to the top of the box. Tim Weah, wide open, took a big touch forward and lined up to deliver a cross into the middle."
+          },
+          {
+            "percentage": "0.62",
+            "id": "usa-play-6",
+            "text": "Christian Pulisic darted toward the near post, dragging an English defender with him, leaving a pocket of open space for McKennie behind him."
+          },
+          {
+            "percentage": "0.73",
+            "id": "usa-play-7",
+            "text": "As Weah’s cross floated in, McKennie was free in the box with half the goal gaping."
+          },
+          {
+            "percentage": "0.90",
+            "id": "usa-play-75",
+            "text": "McKennie struck the ball on the half-volley, skyrocketing it over the goal and into the stands."
+          },
+          {
+            "percentage": "0.97",
+            "id": "usa-play-8",
+            "text": "With two ties in the group phase, the Americans must beat Iran in their next game if they hope to advance to the knockout stage."
+          }
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "id": "1dRCzaUhtezCGEI5NEw1SlVPusQ-QMHwmg49eSTGicVk",
+    "title": "2022-11-25-usa-england-embed",
+    "revisionId": "AAbJ89J1q3IxoKe2bIWD3WXwUFkOuiWVCPZGivKtrxabn4v5hn2mtOm6Waim_lwaeBiVc-iUpEwoGEd3dO5W6A"
+  }
+}

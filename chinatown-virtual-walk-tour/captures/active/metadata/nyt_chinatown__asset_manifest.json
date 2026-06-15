@@ -1,0 +1,206 @@
+{
+  "story_url": "https://www.nytimes.com/interactive/2020/12/02/arts/design/chinatown-virtual-walk-tour.html",
+  "title": "Chinatown: Time Travel Through a New York Gem - The New York Times",
+  "timestamp": "2026-06-15T04:58:50.233Z",
+  "assets": [
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-confucius/merlin_180191055_84026c99-e47c-489b-8f5d-1d54ac8f5c35-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-confucius_merlin_180191055_84026c99-e47c-489b-8f5d-1d54ac8f5c35-master1050.jpg",
+      "size": 317208
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-doyers/merlin_180191088_ac51bfcb-6444-4a73-af42-368044f50447-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-doyers_merlin_180191088_ac51bfcb-6444-4a73-af42-368044f50447-master1050.jpg",
+      "size": 294502
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-nomwah2/merlin_180132099_b92e1967-4225-4dcf-8c71-08ae3d8b89ac-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-nomwah2_merlin_180132099_b92e1967-4225-4dcf-8c71-08ae3d8b89ac-master1050.jpg",
+      "size": 568042
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-nomwah1/merlin_180118839_5e9143a3-4a51-4f37-b950-20b3c1f31b84-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-nomwah1_merlin_180118839_5e9143a3-4a51-4f37-b950-20b3c1f31b84-master1050.jpg",
+      "size": 467272
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-CCBA/merlin_180191067_b866b3b0-1eea-4067-9ec5-03d625c7cc03-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-CCBA_merlin_180191067_b866b3b0-1eea-4067-9ec5-03d625c7cc03-master1050.jpg",
+      "size": 616703
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-columbus3/merlin_180132207_8f19d680-87b4-4ccf-a930-457feaa88759-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-columbus3_merlin_180132207_8f19d680-87b4-4ccf-a930-457feaa88759-master1050.jpg",
+      "size": 576586
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-columbus2/merlin_180132213_f173bb63-b193-41ad-8b54-1785d3e3ead7-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-columbus2_merlin_180132213_f173bb63-b193-41ad-8b54-1785d3e3ead7-master1050.jpg",
+      "size": 689580
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-beauty-salon2/merlin_180132276_c6f478d9-0b9e-4753-a06a-06a57501a883-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-beauty-salon2_merlin_180132276_c6f478d9-0b9e-4753-a06a-06a57501a883-master1050.jpg",
+      "size": 458147
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-beauty-salon1/merlin_180118821_64e8ffe2-09e1-4203-a660-d967a1395d97-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-beauty-salon1_merlin_180118821_64e8ffe2-09e1-4203-a660-d967a1395d97-master1050.jpg",
+      "size": 590665
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-meesum/merlin_180132135_901a0e72-fbd5-4723-ac08-2c7c05a728d2-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-meesum_merlin_180132135_901a0e72-fbd5-4723-ac08-2c7c05a728d2-master1050.jpg",
+      "size": 518802
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-driedseafood/00kimmelman-chinatown-driedseafood-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-driedseafood_00kimmelman-chinatown-driedseafood-master1050.jpg",
+      "size": 786595
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-vegetables/merlin_180191082_0418083a-7f65-4cf8-be81-0eb026c3f629-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-vegetables_merlin_180191082_0418083a-7f65-4cf8-be81-0eb026c3f629-master1050.jpg",
+      "size": 526965
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown1/merlin_180132201_0ec6ad38-71bf-4f3d-ba34-f9234a7a8751-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown1_merlin_180132201_0ec6ad38-71bf-4f3d-ba34-f9234a7a8751-master1050.jpg",
+      "size": 543747
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-pell/merlin_180191094_3219eae3-b31d-4fd8-9a0d-1d70869da4b1-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-pell_merlin_180191094_3219eae3-b31d-4fd8-9a0d-1d70869da4b1-master1050.jpg",
+      "size": 318995
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-icecream/merlin_180132252_1732dec8-cd0b-4955-a99a-c47ec2242621-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-icecream_merlin_180132252_1732dec8-cd0b-4955-a99a-c47ec2242621-master1050.jpg",
+      "size": 537609
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-chantam3/merlin_180191073_5110d5c0-b371-49f2-9d05-720f18b768d1-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-chantam3_merlin_180191073_5110d5c0-b371-49f2-9d05-720f18b768d1-master1050.jpg",
+      "size": 399234
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-chantam1/merlin_180132189_cf0cb15a-7ffa-4091-af3f-c35de4fb8e57-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-chantam1_merlin_180132189_cf0cb15a-7ffa-4091-af3f-c35de4fb8e57-master1050.jpg",
+      "size": 472131
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-chantam2/merlin_180132186_54fddf2c-5d3f-4d0c-89d3-f8981bcf6aea-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-chantam2_merlin_180132186_54fddf2c-5d3f-4d0c-89d3-f8981bcf6aea-master1050.jpg",
+      "size": 668886
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-eastbroadway/merlin_180132174_a93961b0-064c-42db-9a0c-c510ccc95e63-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-eastbroadway_merlin_180132174_a93961b0-064c-42db-9a0c-c510ccc95e63-master1050.jpg",
+      "size": 609037
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-canal-arcade/merlin_180132162_db322ba5-bb18-430c-820a-10374183e918-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-canal-arcade_merlin_180132162_db322ba5-bb18-430c-820a-10374183e918-master1050.jpg",
+      "size": 401799
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-thai-son/merlin_180132105_674ee285-0bcf-476a-8678-e237e667be4f-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-thai-son_merlin_180132105_674ee285-0bcf-476a-8678-e237e667be4f-master1050.jpg",
+      "size": 544910
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/08/30/arts/design/jackson-hppromo-still/jackson-hppromo-still-threeByTwoSmallAt2X.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__jackson-hppromo-still_jackson-hppromo-still-threeByTwoSmallAt2X.jpg",
+      "size": 76462
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/10/19/arts/15kimmelman-eastvillage-stmarks2/merlin_178196880_46513bf8-6669-4871-98f3-826bf17b22a9-threeByTwoSmallAt2X.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__15kimmelman-eastvillage-stmarks2_merlin_178196880_46513bf8-6669-4871-98f3-826bf17b22a9-threeByTwoSmallAt2X.jpg",
+      "size": 121307
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/08/19/arts/19kimmelman-harlem-promo/19kimmelman-harlem-promo-threeByTwoSmallAt2X-v2.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__19kimmelman-harlem-promo_19kimmelman-harlem-promo-threeByTwoSmallAt2X-v2.jpg",
+      "size": 105609
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/08/06/arts/05kimmelman-bronx-yankee-rendering/05kimmelman-bronx-yankee-rendering-threeByTwoSmallAt2X.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__05kimmelman-bronx-yankee-rendering_05kimmelman-bronx-yankee-rendering-threeByTwoSmallAt2X.jpg",
+      "size": 76171
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/11/23/arts/00kimmelman-chinatown-bowery/merlin_180132177_73d9e947-6134-4da0-bdf7-2fe76e7012d5-master1050.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__00kimmelman-chinatown-bowery_merlin_180132177_73d9e947-6134-4da0-bdf7-2fe76e7012d5-master1050.jpg",
+      "size": 433269
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/12/02/arts/design/chinatown-still/chinatown-still-videoSixteenByNine3000.jpg?year=2020&amp;h=1688&amp;w=3000&amp;s=f7476cbfa409fecdd65ec24e3e3e463549f3505ce89760efcda7ce859b143fb9&amp;k=ZQJBKqZ0VN&amp;tw=1",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__chinatown-still_chinatown-still-videoSixteenByNine3000.jpg",
+      "size": 433609
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/12/02/arts/design/chinatown-still/chinatown-still-facebookJumbo.jpg?year=2020&amp;h=550&amp;w=1050&amp;s=0ed6d71afa699a8740133d2ecf99b0674b9f7b167fc4b7d77af2af8825254ac8&amp;k=ZQJBKqZ0VN",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__chinatown-still_chinatown-still-facebookJumbo.jpg",
+      "size": 100434
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/12/02/arts/design/chinatown-still/chinatown-still-videoSixteenByNineJumbo1600.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__chinatown-still_chinatown-still-videoSixteenByNineJumbo1600.jpg",
+      "size": 226279
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/12/02/arts/design/chinatown-still/chinatown-still-superJumbo.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__chinatown-still_chinatown-still-superJumbo.jpg",
+      "size": 362532
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/2020/12/02/arts/design/chinatown-still/chinatown-still-mediumSquareAt3X.jpg",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__chinatown-still_chinatown-still-mediumSquareAt3X.jpg",
+      "size": 367150
+    },
+    {
+      "asset_url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__icons_t_logo_291_black.png",
+      "size": 9011
+    },
+    {
+      "asset_url": "https://static01.nyt.com/newsgraphics/2020/10/29/chinatown-virtual-tour/1bd9f7e2e9f6aabb8fa9ec384cae127d5435de99/triptych_image.png",
+      "asset_type": "texture",
+      "local_name": "nyt_chinatown__texture__1bd9f7e2e9f6aabb8fa9ec384cae127d5435de99_triptych_image.png",
+      "size": 754231
+    }
+  ],
+  "failed": []
+}

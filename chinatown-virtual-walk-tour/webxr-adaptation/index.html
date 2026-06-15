@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Chinatown: A Walk Down Doyers Street — WebXR</title>
+<link rel="stylesheet" href="./src/styles.css" />
+<script type="importmap">
+{
+  "imports": {
+    "three": "./vendor/three.module.js",
+    "three/addons/": "./vendor/addons/"
+  }
+}
+</script>
+</head>
+<body>
+<div id="vignette"></div>
+<div id="overlay">
+  <div id="title-card">
+    <p class="kicker">A virtual walk · The New York Times</p>
+    <h1 class="headline"></h1>
+    <p class="byline"></p>
+    <p class="hint">Drag to look around. Use Next / Prev to walk between points. Enter VR for the immersive version.</p>
+  </div>
+  <div id="year-badge"></div>
+  <div id="caption-panel"><p id="caption-text"></p></div>
+  <div id="nav">
+    <button id="prev-btn">‹ Prev</button>
+    <span id="beat-indicator"></span>
+    <button id="next-btn">Next ›</button>
+  </div>
+  <div id="loading">Loading the 3-D street…</div>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
