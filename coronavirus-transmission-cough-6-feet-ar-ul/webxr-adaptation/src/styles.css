@@ -23,6 +23,21 @@ canvas { display: block; position: fixed; inset: 0; }
 }
 #caption-panel.show { opacity: 1; transform: translateX(-50%); }
 #caption-text { font-size: 17px; line-height: 1.55; }
+#caption-text .hl-large { color: #dce8ff; font-weight: 600; }
+#caption-text .hl-small { color: #6aa8ff; font-weight: 600; }
+
+#legend {
+  position: absolute; left: 6vw; bottom: 11vh; max-width: 280px;
+  font: 12px helvetica, arial, sans-serif; color: #d6deea;
+  background: rgba(8,10,16,0.6); backdrop-filter: blur(4px);
+  border-radius: 6px; padding: 11px 14px; display: flex; flex-direction: column; gap: 8px;
+  opacity: 0; transition: opacity .45s; text-shadow: 0 1px 6px rgba(0,0,0,0.8);
+}
+#legend.show { opacity: 1; }
+.lg-item { display: flex; align-items: center; gap: 9px; }
+.lg-dot { width: 11px; height: 11px; border-radius: 50%; flex: 0 0 auto; }
+.lg-large { background: #eef4ff; box-shadow: 0 0 8px #cdddff; }
+.lg-small { background: #5aa0ff; box-shadow: 0 0 8px #3a7fff; }
 
 #nav {
   position: absolute; left: 50%; bottom: 3.5vh; transform: translateX(-50%);
